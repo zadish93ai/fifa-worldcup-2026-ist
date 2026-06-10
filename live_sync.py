@@ -119,6 +119,9 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
 
 
 def scores_from_football_data(schedule: dict, api_key: str) -> dict[int, tuple[int, int]]:
+    if not api_key.strip():
+        return {}
+
     try:
         payload = fetch_json(
             FOOTBALL_DATA_URL,
@@ -183,7 +186,7 @@ def sync_and_generate(
         football_data_scores = scores_from_football_data(schedule, api_key)
         print(f"football-data.org: {len(football_data_scores)} finished matches")
     else:
-        print("football-data.org: skipped (FOOTBALL_DATA_API_KEY not set)")
+        print("API key skipped, using openfootball fallback")
 
     schedule["completed_scores"] = merge_completed_scores(
         openfootball_scores,
