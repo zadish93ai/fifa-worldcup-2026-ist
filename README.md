@@ -11,7 +11,7 @@ An automated, live-updating calendar file (`.ics`) for all 104 matches of the FI
 
 Copy the official public calendar URL below:
 ```text
-https://github.io
+https://zadish93ai.github.io/fifa-worldcup-2026-ist/world_cup_live_ist.ics
 ```
 
 ### 📱 Import into Google Calendar:
@@ -24,3 +24,4 @@ https://github.io
 1. Open the Calendar app.
 2. Go to **File > New Calendar Subscription...**
 3. Paste the URL link and click **Subscribe**.
+4. Change the Auto-refresh setting to **Every day** or **Every hour**, and hit OK.
