@@ -1,0 +1,5 @@
+- We are on an Apple Silicon Mac running Python.
+- We strictly use the 'uv' package manager (never recommend pip or conda).
+- We are building a dynamic FIFA World Cup 2026 Calendar (.ics file) tracked via local Git.
+- Kickoff times must be automatically translated from their North American venue times into Indian Standard Time (IST).
+- The script must be designed to fetch match structures dynamically so it can append live scores (e.g., "🎯 Match 1: 🇲🇽 Mexico 2 - 1 South Africa 🇿🇦 (FT)") to the event titles as the games finish.

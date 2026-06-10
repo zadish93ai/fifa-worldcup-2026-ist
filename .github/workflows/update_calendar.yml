@@ -1,0 +1,53 @@
+name: Update World Cup Calendar
+
+on:
+  schedule:
+    # Every 3 hours (UTC)
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch live scores and regenerate calendar
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: uv run python live_sync.py
+
+      - name: Commit and push updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add world_cup_live_ist.ics data/world_cup_2026_schedule.json
+
+          if git diff --staged --quiet; then
+            echo "No score changes — nothing to commit."
+          else
+            git commit -m "$(cat <<'EOF'
+chore: update World Cup calendar with live scores
+
+Automated sync from public sports feeds (openfootball + optional football-data.org).
+EOF
+)"
+            git push
+          fi
