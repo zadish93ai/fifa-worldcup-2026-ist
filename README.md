@@ -11,9 +11,8 @@ An automated, live-updating calendar file (`.ics`) for all 104 matches of the FI
 
 Copy the official public calendar URL below:
 ```text
-https://githubusercontent.com
+https://github.io
 ```
-*(Make sure to change `YOUR_GITHUB_USERNAME` to your actual GitHub username!)*
 
 ### 📱 Import into Google Calendar:
 1. Open [Google Calendar](https://google.com) in a browser.
