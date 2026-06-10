@@ -1,7 +1,6 @@
 name: Update World Cup Calendar
 
 on:
-  workflow_dispatch: {}   
   schedule:
     # Every 3 hours (UTC)
     - cron: "0 */3 * * *"
@@ -22,14 +21,12 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
+          python-version: "3.14"
 
-      - name: Set up Python
-        run: uv python install
+      - name: Install calendar dependencies
+        run: uv sync --frozen
 
-      - name: Install dependencies
-        run: uv sync
-
-      - name: Fetch live scores and regenerate calendar
+      - name: Regenerate calendar with live scores
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
         run: uv run python live_sync.py
