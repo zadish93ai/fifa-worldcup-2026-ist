@@ -1,6 +1,7 @@
 name: Update World Cup Calendar
 
 on:
+  workflow_dispatch: {}   
   schedule:
     # Every 3 hours (UTC)
     - cron: "0 */3 * * *"
