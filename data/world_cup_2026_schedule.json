@@ -115,7 +115,16 @@
     "Colombia": "🇨🇴",
     "Congo DR": "🇨🇩"
   },
-  "completed_scores": {},
+  "completed_scores": {
+    "1": [
+      2,
+      0
+    ],
+    "2": [
+      2,
+      1
+    ]
+  },
   "matches": [
     {
       "match_number": 1,
