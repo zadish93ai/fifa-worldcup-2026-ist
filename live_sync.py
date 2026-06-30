@@ -86,34 +86,49 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
     completed: dict[int, tuple[int, int]] = {}
 
     for match in payload.get("matches", []):
-        score = match.get("score", {}).get("ft")
-        if not score or len(score) != 2:
-            continue
-
         match_number = match.get("num")
-        if match_number is None:
+        
+        if match_number is not None:
+            match_number = int(match_number)
+            row = next((item for item in schedule["matches"] if item["match_number"] == match_number), None)
+            
+            # AUTOMATED KNOCKOUT RETROFIT & TRACKING
+            if row and 73 <= match_number <= 104:
+                api_team1 = normalize_team(match.get("team1", ""))
+                api_team2 = normalize_team(match.get("team2", ""))
+                
+                if api_team1 and api_team2:
+                    # Overwrite placeholders if found in the schedule row
+                    if any(p in row["home"] for p in ["Winners", "Runners-up", "Winner match"]):
+                        row["home"] = api_team1
+                        print(f"Auto-resolved Match {match_number} Home -> {api_team1}")
+                    if any(p in row["away"] for p in ["Winners", "Runners-up", "Winner match"]):
+                        row["away"] = api_team2
+                        print(f"Auto-resolved Match {match_number} Away -> {api_team2}")
+            
+            if row:
+                home_team, away_team = row["home"], row["away"]
+            else:
+                continue
+        else:
+            # Fallback to team pairing lookup for standard group stage games
             key = team_pair_key(match["date"], match["team1"], match["team2"])
             row = lookup.get(key)
             if row is None:
                 continue
             match_number = row["match_number"]
             home_team, away_team = row["home"], row["away"]
-        else:
-            row = next(
-                (item for item in schedule["matches"] if item["match_number"] == match_number),
-                None,
-            )
-            if row is None:
-                continue
-            home_team, away_team = row["home"], row["away"]
 
-        completed[match_number] = map_scores_to_home_away(
-            home_team,
-            away_team,
-            match["team1"],
-            int(score[0]),
-            int(score[1]),
-        )
+        # Only extract the final score if the match is actually finished
+        score = match.get("score", {}).get("ft")
+        if score and len(score) == 2:
+            completed[match_number] = map_scores_to_home_away(
+                home_team,
+                away_team,
+                match["team1"],
+                int(score[0]),
+                int(score[1]),
+            )
 
     return completed
 
@@ -138,24 +153,40 @@ def scores_from_football_data(schedule: dict, api_key: str) -> dict[int, tuple[i
     completed: dict[int, tuple[int, int]] = {}
 
     for match in payload.get("matches", []):
-        if match.get("status") != "FINISHED":
-            continue
-
-        full_time = match.get("score", {}).get("fullTime", {})
-        home_score = full_time.get("home")
-        away_score = full_time.get("away")
-        if home_score is None or away_score is None:
-            continue
-
+        home_name = normalize_team(match.get("homeTeam", {}).get("name", ""))
+        away_name = normalize_team(match.get("awayTeam", {}).get("name", ""))
         utc_date = match.get("utcDate", "")[:10]
-        home_name = match.get("homeTeam", {}).get("name", "")
-        away_name = match.get("awayTeam", {}).get("name", "")
+        
+        # Check if the API explicitly includes a match number parameter
+        api_match_no = match.get("matchNumber")
 
-        row = lookup.get(team_pair_key(utc_date, home_name, away_name))
+        row = None
+        if api_match_no:
+            row = next((item for item in schedule["matches"] if item["match_number"] == int(api_match_no)), None)
+        if row is None:
+            row = lookup.get(team_pair_key(utc_date, home_name, away_name))
+            
         if row is None:
             continue
 
-        completed[row["match_number"]] = (int(home_score), int(away_score))
+        match_number = row["match_number"]
+        
+        # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
+        if 73 <= match_number <= 104:
+            if home_name and any(p in row["home"] for p in ["Winners", "Runners-up", "Winner match"]):
+                row["home"] = home_name
+                print(f"football-data auto-resolved Match {match_number} Home -> {home_name}")
+            if away_name and any(p in row["away"] for p in ["Winners", "Runners-up", "Winner match"]):
+                row["away"] = away_name
+                print(f"football-data auto-resolved Match {match_number} Away -> {away_name}")
+
+        # Extract scores only if the status indicates completion
+        if match.get("status") == "FINISHED":
+            full_time = match.get("score", {}).get("fullTime", {})
+            home_score = full_time.get("home")
+            away_score = full_time.get("away")
+            if home_score is not None and away_score is not None:
+                completed[match_number] = (int(home_score), int(away_score))
 
     return completed
 

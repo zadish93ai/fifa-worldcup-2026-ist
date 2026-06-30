@@ -393,8 +393,8 @@
       1
     ],
     "73": [
-      1,
-      0
+      0,
+      1
     ],
     "74": [
       1,
@@ -405,6 +405,10 @@
       1
     ],
     "76": [
+      2,
+      1
+    ],
+    "78": [
       1,
       2
     ]
@@ -991,15 +995,15 @@
       "date": "2026-06-28",
       "time": "12:00",
       "stadium": "SoFi Stadium",
-      "home": "Group A Runners-up",
-      "away": "Group B Runners-up"
+      "home": "South Africa",
+      "away": "Canada"
     },
     {
       "match_number": 74,
       "date": "2026-06-29",
       "time": "16:30",
       "stadium": "Gillette Stadium",
-      "home": "Group E Winners",
+      "home": "Germany",
       "away": "Best 3rd (A/B/C/D/F)"
     },
     {
@@ -1007,23 +1011,23 @@
       "date": "2026-06-29",
       "time": "19:00",
       "stadium": "Estadio BBVA",
-      "home": "Group F Winners",
-      "away": "Group C Runners-up"
+      "home": "Netherlands",
+      "away": "Morocco"
     },
     {
       "match_number": 76,
       "date": "2026-06-29",
       "time": "12:00",
       "stadium": "NRG Stadium",
-      "home": "Group C Winners",
-      "away": "Group F Runners-up"
+      "home": "Brazil",
+      "away": "Japan"
     },
     {
       "match_number": 77,
       "date": "2026-06-30",
       "time": "17:00",
       "stadium": "MetLife Stadium",
-      "home": "Group I Winners",
+      "home": "France",
       "away": "Best 3rd (C/D/F/G/H)"
     },
     {
@@ -1031,15 +1035,15 @@
       "date": "2026-06-30",
       "time": "12:00",
       "stadium": "AT&T Stadium",
-      "home": "Group E Runners-up",
-      "away": "Group I Runners-up"
+      "home": "Ivory Coast",
+      "away": "Norway"
     },
     {
       "match_number": 79,
       "date": "2026-06-30",
       "time": "19:00",
       "stadium": "Estadio Azteca",
-      "home": "Group A Winners",
+      "home": "Mexico",
       "away": "Best 3rd (C/E/F/H/I)"
     },
     {
@@ -1047,7 +1051,7 @@
       "date": "2026-07-01",
       "time": "12:00",
       "stadium": "Mercedes-Benz Stadium",
-      "home": "Group L Winners",
+      "home": "England",
       "away": "Best 3rd (E/H/I/J/K)"
     },
     {
@@ -1055,7 +1059,7 @@
       "date": "2026-07-01",
       "time": "17:00",
       "stadium": "Levi's Stadium",
-      "home": "Group D Winners",
+      "home": "USA",
       "away": "Best 3rd (B/E/F/I/J)"
     },
     {
@@ -1063,7 +1067,7 @@
       "date": "2026-07-01",
       "time": "13:00",
       "stadium": "Lumen Field",
-      "home": "Group G Winners",
+      "home": "Belgium",
       "away": "Best 3rd (A/E/H/I/J)"
     },
     {
@@ -1071,23 +1075,23 @@
       "date": "2026-07-02",
       "time": "19:00",
       "stadium": "BMO Field",
-      "home": "Group K Runners-up",
-      "away": "Group L Runners-up"
+      "home": "Portugal",
+      "away": "Croatia"
     },
     {
       "match_number": 84,
       "date": "2026-07-02",
       "time": "12:00",
       "stadium": "SoFi Stadium",
-      "home": "Group H Winners",
-      "away": "Group J Runners-up"
+      "home": "Spain",
+      "away": "Austria"
     },
     {
       "match_number": 85,
       "date": "2026-07-02",
       "time": "20:00",
       "stadium": "BC Place",
-      "home": "Group B Winners",
+      "home": "Switzerland",
       "away": "Best 3rd (E/F/G/I/J)"
     },
     {
@@ -1095,15 +1099,15 @@
       "date": "2026-07-03",
       "time": "18:00",
       "stadium": "Hard Rock Stadium",
-      "home": "Group J Winners",
-      "away": "Group H Runners-up"
+      "home": "Argentina",
+      "away": "Cape Verde"
     },
     {
       "match_number": 87,
       "date": "2026-07-03",
       "time": "20:30",
       "stadium": "Arrowhead Stadium",
-      "home": "Group K Winners",
+      "home": "Colombia",
       "away": "Best 3rd (D/E/I/J/L)"
     },
     {
@@ -1111,8 +1115,8 @@
       "date": "2026-07-03",
       "time": "13:00",
       "stadium": "AT&T Stadium",
-      "home": "Group D Runners-up",
-      "away": "Group G Runners-up"
+      "home": "Australia",
+      "away": "Egypt"
     },
     {
       "match_number": 89,
