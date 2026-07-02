@@ -408,8 +408,28 @@
       2,
       1
     ],
+    "77": [
+      3,
+      0
+    ],
     "78": [
       1,
+      2
+    ],
+    "79": [
+      2,
+      0
+    ],
+    "80": [
+      2,
+      1
+    ],
+    "81": [
+      2,
+      0
+    ],
+    "82": [
+      2,
       2
     ]
   },
@@ -1004,7 +1024,7 @@
       "time": "16:30",
       "stadium": "Gillette Stadium",
       "home": "Germany",
-      "away": "Best 3rd (A/B/C/D/F)"
+      "away": "Paraguay"
     },
     {
       "match_number": 75,
@@ -1028,7 +1048,7 @@
       "time": "17:00",
       "stadium": "MetLife Stadium",
       "home": "France",
-      "away": "Best 3rd (C/D/F/G/H)"
+      "away": "Sweden"
     },
     {
       "match_number": 78,
@@ -1044,7 +1064,7 @@
       "time": "19:00",
       "stadium": "Estadio Azteca",
       "home": "Mexico",
-      "away": "Best 3rd (C/E/F/H/I)"
+      "away": "Ecuador"
     },
     {
       "match_number": 80,
@@ -1052,7 +1072,7 @@
       "time": "12:00",
       "stadium": "Mercedes-Benz Stadium",
       "home": "England",
-      "away": "Best 3rd (E/H/I/J/K)"
+      "away": "Congo DR"
     },
     {
       "match_number": 81,
@@ -1060,7 +1080,7 @@
       "time": "17:00",
       "stadium": "Levi's Stadium",
       "home": "USA",
-      "away": "Best 3rd (B/E/F/I/J)"
+      "away": "Bosnia and Herzegovina"
     },
     {
       "match_number": 82,
@@ -1068,7 +1088,7 @@
       "time": "13:00",
       "stadium": "Lumen Field",
       "home": "Belgium",
-      "away": "Best 3rd (A/E/H/I/J)"
+      "away": "Senegal"
     },
     {
       "match_number": 83,
@@ -1092,7 +1112,7 @@
       "time": "20:00",
       "stadium": "BC Place",
       "home": "Switzerland",
-      "away": "Best 3rd (E/F/G/I/J)"
+      "away": "Algeria"
     },
     {
       "match_number": 86,
@@ -1108,7 +1128,7 @@
       "time": "20:30",
       "stadium": "Arrowhead Stadium",
       "home": "Colombia",
-      "away": "Best 3rd (D/E/I/J/L)"
+      "away": "Ghana"
     },
     {
       "match_number": 88,
