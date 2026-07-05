@@ -431,6 +431,38 @@
     "82": [
       2,
       2
+    ],
+    "83": [
+      2,
+      1
+    ],
+    "84": [
+      3,
+      0
+    ],
+    "85": [
+      2,
+      0
+    ],
+    "86": [
+      1,
+      1
+    ],
+    "87": [
+      1,
+      0
+    ],
+    "88": [
+      1,
+      1
+    ],
+    "89": [
+      0,
+      1
+    ],
+    "90": [
+      0,
+      3
     ]
   },
   "matches": [
@@ -1143,128 +1175,128 @@
       "date": "2026-07-04",
       "time": "17:00",
       "stadium": "Lincoln Financial Field",
-      "home": "Match 74 Winner",
-      "away": "Match 77 Winner"
+      "home": "Paraguay",
+      "away": "France"
     },
     {
       "match_number": 90,
       "date": "2026-07-04",
       "time": "12:00",
       "stadium": "NRG Stadium",
-      "home": "Match 73 Winner",
-      "away": "Match 75 Winner"
+      "home": "Canada",
+      "away": "Morocco"
     },
     {
       "match_number": 91,
       "date": "2026-07-05",
       "time": "16:00",
       "stadium": "MetLife Stadium",
-      "home": "Match 76 Winner",
-      "away": "Match 78 Winner"
+      "home": "Brazil",
+      "away": "Norway"
     },
     {
       "match_number": 92,
       "date": "2026-07-05",
       "time": "18:00",
       "stadium": "Estadio Azteca",
-      "home": "Match 79 Winner",
-      "away": "Match 80 Winner"
+      "home": "Mexico",
+      "away": "England"
     },
     {
       "match_number": 93,
       "date": "2026-07-06",
       "time": "14:00",
       "stadium": "AT&T Stadium",
-      "home": "Match 83 Winner",
-      "away": "Match 84 Winner"
+      "home": "Portugal",
+      "away": "Spain"
     },
     {
       "match_number": 94,
       "date": "2026-07-06",
       "time": "17:00",
       "stadium": "Lumen Field",
-      "home": "Match 81 Winner",
-      "away": "Match 82 Winner"
+      "home": "USA",
+      "away": "Belgium"
     },
     {
       "match_number": 95,
       "date": "2026-07-07",
       "time": "12:00",
       "stadium": "Mercedes-Benz Stadium",
-      "home": "Match 86 Winner",
-      "away": "Match 88 Winner"
+      "home": "Argentina",
+      "away": "Egypt"
     },
     {
       "match_number": 96,
       "date": "2026-07-07",
       "time": "13:00",
       "stadium": "BC Place",
-      "home": "Match 85 Winner",
-      "away": "Match 87 Winner"
+      "home": "Switzerland",
+      "away": "Colombia"
     },
     {
       "match_number": 97,
       "date": "2026-07-09",
       "time": "16:00",
       "stadium": "Gillette Stadium",
-      "home": "Match 89 Winner",
-      "away": "Match 90 Winner"
+      "home": "France",
+      "away": "Morocco"
     },
     {
       "match_number": 98,
       "date": "2026-07-10",
       "time": "12:00",
       "stadium": "SoFi Stadium",
-      "home": "Match 93 Winner",
-      "away": "Match 94 Winner"
+      "home": "W93",
+      "away": "W94"
     },
     {
       "match_number": 99,
       "date": "2026-07-11",
       "time": "17:00",
       "stadium": "Hard Rock Stadium",
-      "home": "Match 91 Winner",
-      "away": "Match 92 Winner"
+      "home": "W91",
+      "away": "W92"
     },
     {
       "match_number": 100,
       "date": "2026-07-11",
       "time": "20:00",
       "stadium": "Arrowhead Stadium",
-      "home": "Match 95 Winner",
-      "away": "Match 96 Winner"
+      "home": "W95",
+      "away": "W96"
     },
     {
       "match_number": 101,
       "date": "2026-07-14",
       "time": "14:00",
       "stadium": "AT&T Stadium",
-      "home": "Match 97 Winner",
-      "away": "Match 98 Winner"
+      "home": "W97",
+      "away": "W98"
     },
     {
       "match_number": 102,
       "date": "2026-07-15",
       "time": "15:00",
       "stadium": "Mercedes-Benz Stadium",
-      "home": "Match 99 Winner",
-      "away": "Match 100 Winner"
+      "home": "W99",
+      "away": "W100"
     },
     {
       "match_number": 103,
       "date": "2026-07-18",
       "time": "17:00",
       "stadium": "Hard Rock Stadium",
-      "home": "Match 101 Loser",
-      "away": "Match 102 Loser"
+      "home": "L101",
+      "away": "L102"
     },
     {
       "match_number": 104,
       "date": "2026-07-19",
       "time": "15:00",
       "stadium": "MetLife Stadium",
-      "home": "Match 101 Winner",
-      "away": "Match 102 Winner"
+      "home": "W101",
+      "away": "W102"
     }
   ]
 }

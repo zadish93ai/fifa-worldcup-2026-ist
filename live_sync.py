@@ -98,8 +98,8 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
                 api_team2 = normalize_team(match.get("team2", ""))
                 
                 if api_team1 and api_team2:
-                    # Define a broad catch-all for any bracket placeholder text
-                    placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd"]
+                                        # Broad catch-all for any bracket placeholder variations
+                    placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
                     
                     # Overwrite placeholders if found in the schedule row
                     if any(p in row["home"] for p in placeholders):
@@ -174,9 +174,9 @@ def scores_from_football_data(schedule: dict, api_key: str) -> dict[int, tuple[i
 
         match_number = row["match_number"]
         
-                # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
+                        # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
         if 73 <= match_number <= 104:
-            placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd"]
+            placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
             
             if home_name and any(p in row["home"] for p in placeholders):
                 row["home"] = home_name
