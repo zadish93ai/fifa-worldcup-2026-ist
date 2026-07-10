@@ -2,516 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:FIFA World Cup 2026 — Live IST Sync
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-27 17:00 (America/New_York)\nIST: 2026-06-28 02:30 IST
-DTEND:20260627T230000Z
-LOCATION:Lincoln Financial Field\, Philadelphia
-DTSTART:20260627T210000Z
-SUMMARY:🎯 Match 68: 🇭🇷 Croatia 2 - 1 Ghana 🇬🇭 (FT)
-UID:f5ede1a4-5a77-42ea-96a7-d8309bc863a4@f5ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-13 21:00 (America/New_York)\nIST: 2026-06-14 06:30 IST
-DTEND:20260614T030000Z
-LOCATION:Gillette Stadium\, Foxborough
-DTSTART:20260614T010000Z
-SUMMARY:🎯 Match 5: 🇭🇹 Haiti 0 - 1 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (FT)
-UID:e39d5081-1d3d-44ec-89d3-d82edc570373@e39d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-11 20:00 (America/Mexico_City)\nIST: 2026-06-12 07:30 IST
-DTEND:20260612T040000Z
-LOCATION:Estadio Akron\, Guadalajara
-DTSTART:20260612T020000Z
-SUMMARY:🎯 Match 2: 🇰🇷 South Korea 2 - 1 Czechia 🇨🇿 (FT)
-UID:f3861554-0ee1-494a-a24b-79ae4e8598f8@f386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 16:00 (America/New_York)\nIST: 2026-06-26 01:30 IST
-DTEND:20260625T220000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260625T200000Z
-SUMMARY:🎯 Match 56: 🇪🇨 Ecuador 2 - 1 Germany 🇩🇪 (FT)
-UID:dd12fd49-d68b-48ff-96bb-334d6310a75e@dd12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-04 12:00 (America/Chicago)\nIST: 2026-07-04 22:30 IST
-DTEND:20260704T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260704T170000Z
-SUMMARY:🎯 Match 90: 🇨🇦 Canada 0 - 3 Morocco 🇲🇦 (FT)
-UID:69587476-7760-40aa-8dda-c82afd1fc8fc@6958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-18 17:00 (America/New_York)\nIST: 2026-07-19 02:30 IST
-DTEND:20260718T230000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260718T210000Z
-SUMMARY:⚽ Match 103: 🏳️ L101 vs L102 🏳️
-UID:ab3a3f46-bba0-4a47-beee-4468b7d7c564@ab3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-29 12:00 (America/Chicago)\nIST: 2026-06-29 22:30 IST
-DTEND:20260629T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260629T170000Z
-SUMMARY:🎯 Match 76: 🇧🇷 Brazil 2 - 1 Japan 🇯🇵 (FT)
-UID:f1e57355-3fde-49df-8a76-5d9bec056f5f@f1e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 18:00 (America/Chicago)\nIST: 2026-06-26 04:30 IST
-DTEND:20260626T010000Z
-LOCATION:Arrowhead Stadium\, Kansas City
-DTSTART:20260625T230000Z
-SUMMARY:🎯 Match 58: 🇹🇳 Tunisia 1 - 3 Netherlands 🇳🇱 (FT)
-UID:99c18526-e97e-4788-9f97-c822a2856618@99c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-11 17:00 (America/New_York)\nIST: 2026-07-12 02:30 IST
-DTEND:20260711T230000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260711T210000Z
-SUMMARY:⚽ Match 99: 🏳️ W91 vs W92 🏳️
-UID:10d67cae-ea19-4d9f-8599-61f605d3b7e0@10d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-30 19:00 (America/Mexico_City)\nIST: 2026-07-01 06:30 IST
-DTEND:20260701T030000Z
-LOCATION:Estadio Azteca\, Mexico City
-DTSTART:20260701T010000Z
-SUMMARY:🎯 Match 79: 🇲🇽 Mexico 2 - 0 Ecuador 🇪🇨 (FT)
-UID:2a91276b-0d89-4b11-b597-956b9941582c@2a91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-14 19:00 (America/New_York)\nIST: 2026-06-15 04:30 IST
-DTEND:20260615T010000Z
-LOCATION:Lincoln Financial Field\, Philadelphia
-DTSTART:20260614T230000Z
-SUMMARY:🎯 Match 9: 🇨🇮 Ivory Coast 1 - 0 Ecuador 🇪🇨 (FT)
-UID:0d6f641d-8637-4ba3-bc2a-4e0ed2ed7754@0d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 19:00 (America/Los_Angeles)\nIST: 2026-06-26 07:30 IST
-DTEND:20260626T040000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260626T020000Z
-SUMMARY:🎯 Match 59: 🇹🇷 Türkiye 3 - 2 USA 🇺🇸 (FT)
-UID:ad829ef1-5377-412b-bfca-6251be598437@ad82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-28 12:00 (America/Los_Angeles)\nIST: 2026-06-29 00:30 IST
-DTEND:20260628T210000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260628T190000Z
-SUMMARY:🎯 Match 73: 🇿🇦 South Africa 0 - 1 Canada 🇨🇦 (FT)
-UID:6428d891-f22a-489b-8a1e-36c8155fdc9e@6428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-19 15:00 (America/New_York)\nIST: 2026-07-20 00:30 IST
-DTEND:20260719T210000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260719T190000Z
-SUMMARY:⚽ Match 104: 🏳️ W101 vs W102 🏳️
-UID:8ed83b17-becf-4d4e-aa88-e22bbd240ad8@8ed8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-14 20:00 (America/Monterrey)\nIST: 2026-06-15 07:30 IST
-DTEND:20260615T040000Z
-LOCATION:Estadio BBVA\, Monterrey
-DTSTART:20260615T020000Z
-SUMMARY:🎯 Match 12: 🇸🇪 Sweden 5 - 1 Tunisia 🇹🇳 (FT)
-UID:96a55b88-eca6-43f2-bf0d-9075326b33bd@96a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-27 19:30 (America/New_York)\nIST: 2026-06-28 05:00 IST
-DTEND:20260628T013000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260627T233000Z
-SUMMARY:🎯 Match 71: 🇨🇴 Colombia 0 - 0 Portugal 🇵🇹 (FT)
-UID:bedf4e74-eec6-468e-805e-0a15dde925e3@bedf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-29 19:00 (America/Monterrey)\nIST: 2026-06-30 06:30 IST
-DTEND:20260630T030000Z
-LOCATION:Estadio BBVA\, Monterrey
-DTSTART:20260630T010000Z
-SUMMARY:🎯 Match 75: 🇳🇱 Netherlands 1 - 1 Morocco 🇲🇦 (FT)
-UID:04c38813-703f-4769-a2ab-1c5dcf2526bd@04c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-01 17:00 (America/Los_Angeles)\nIST: 2026-07-02 05:30 IST
-DTEND:20260702T020000Z
-LOCATION:Levi's Stadium\, Santa Clara
-DTSTART:20260702T000000Z
-SUMMARY:🎯 Match 81: 🇺🇸 USA 2 - 0 Bosnia and Herzegovina 🇧🇦 (FT)
-UID:ef8e48be-8876-4336-b132-c95c9a3df1fb@ef8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-20 12:00 (America/Chicago)\nIST: 2026-06-20 22:30 IST
-DTEND:20260620T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260620T170000Z
-SUMMARY:🎯 Match 35: 🇳🇱 Netherlands 5 - 1 Sweden 🇸🇪 (FT)
-UID:ab2785b7-9d2a-432d-b814-37868a9982fd@ab27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-02 12:00 (America/Los_Angeles)\nIST: 2026-07-03 00:30 IST
-DTEND:20260702T210000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260702T190000Z
-SUMMARY:🎯 Match 84: 🇪🇸 Spain 3 - 0 Austria 🇦🇹 (FT)
-UID:3c3d1e5c-a565-4ad0-a3c4-8fd94ace2415@3c3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-13 18:00 (America/New_York)\nIST: 2026-06-14 03:30 IST
-DTEND:20260614T000000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260613T220000Z
-SUMMARY:🎯 Match 7: 🇧🇷 Brazil 1 - 1 Morocco 🇲🇦 (FT)
-UID:aba31071-eae4-4291-b6df-16fa4f348f08@aba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-19 12:00 (America/Los_Angeles)\nIST: 2026-06-20 00:30 IST
-DTEND:20260619T210000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260619T190000Z
-SUMMARY:🎯 Match 32: 🇺🇸 USA 2 - 0 Australia 🇦🇺 (FT)
-UID:2c0eeca3-c06e-4a84-b467-9649fefaadd9@2c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-19 18:00 (America/New_York)\nIST: 2026-06-20 03:30 IST
-DTEND:20260620T000000Z
-LOCATION:Gillette Stadium\, Foxborough
-DTSTART:20260619T220000Z
-SUMMARY:🎯 Match 30: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 0 - 1 Morocco 🇲🇦 (FT)
-UID:dfa8c3da-4c05-4489-a616-04fb90f48253@dfa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-27 21:00 (America/Chicago)\nIST: 2026-06-28 07:30 IST
-DTEND:20260628T040000Z
-LOCATION:Arrowhead Stadium\, Kansas City
-DTSTART:20260628T020000Z
-SUMMARY:🎯 Match 69: 🇩🇿 Algeria 3 - 3 Austria 🇦🇹 (FT)
-UID:106bae16-5a5f-473a-b669-ca017515ea3c@106b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-09 16:00 (America/New_York)\nIST: 2026-07-10 01:30 IST
-DTEND:20260709T220000Z
-LOCATION:Gillette Stadium\, Foxborough
-DTSTART:20260709T200000Z
-SUMMARY:🎯 Match 97: 🇫🇷 France 2 - 0 Morocco 🇲🇦 (FT)
-UID:f2b0a502-1767-4fe3-85cb-a368b77b3e50@f2b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-22 17:00 (America/New_York)\nIST: 2026-06-23 02:30 IST
-DTEND:20260622T230000Z
-LOCATION:Lincoln Financial Field\, Philadelphia
-DTSTART:20260622T210000Z
-SUMMARY:🎯 Match 42: 🇫🇷 France 3 - 0 Iraq 🇮🇶 (FT)
-UID:aced62ca-49f4-4ec1-ab31-4c0f592cbe57@aced.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 18:00 (America/Chicago)\nIST: 2026-06-26 04:30 IST
-DTEND:20260626T010000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260625T230000Z
-SUMMARY:🎯 Match 57: 🇯🇵 Japan 1 - 1 Sweden 🇸🇪 (FT)
-UID:ca2c501b-32c3-4d41-beeb-018dcd70a189@ca2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-17 19:00 (America/Toronto)\nIST: 2026-06-18 04:30 IST
-DTEND:20260618T010000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260617T230000Z
-SUMMARY:🎯 Match 21: 🇬🇭 Ghana 1 - 0 Panama 🇵🇦 (FT)
-UID:6997ee8c-12ec-4aaf-a62b-c44aabe9e6b2@6997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-30 12:00 (America/Chicago)\nIST: 2026-06-30 22:30 IST
-DTEND:20260630T190000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260630T170000Z
-SUMMARY:🎯 Match 78: 🇨🇮 Ivory Coast 1 - 2 Norway 🇳🇴 (FT)
-UID:b193681f-0e51-4041-a721-8e7b37d78cbd@b193.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-12 18:00 (America/Los_Angeles)\nIST: 2026-06-13 06:30 IST
-DTEND:20260613T030000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260613T010000Z
-SUMMARY:🎯 Match 4: 🇺🇸 USA 4 - 1 Paraguay 🇵🇾 (FT)
-UID:47ea8089-5267-4f3c-a39f-eda527ba10f8@47ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 18:00 (America/New_York)\nIST: 2026-06-25 03:30 IST
-DTEND:20260625T000000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260624T220000Z
-SUMMARY:🎯 Match 50: 🇲🇦 Morocco 4 - 2 Haiti 🇭🇹 (FT)
-UID:309a8026-fea7-4a5c-9241-eff566a95d28@309a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 19:00 (America/Mexico_City)\nIST: 2026-06-25 06:30 IST
-DTEND:20260625T030000Z
-LOCATION:Estadio Azteca\, Mexico City
-DTSTART:20260625T010000Z
-SUMMARY:🎯 Match 53: 🇨🇿 Czechia 0 - 3 Mexico 🇲🇽 (FT)
-UID:1342acc5-c3c7-4bcc-bf14-35db5fce643f@1342.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-20 16:00 (America/Toronto)\nIST: 2026-06-21 01:30 IST
-DTEND:20260620T220000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260620T200000Z
-SUMMARY:🎯 Match 33: 🇩🇪 Germany 2 - 1 Ivory Coast 🇨🇮 (FT)
-UID:dacdc173-2a6e-4a68-9c3b-962d6f4a3353@dacd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-14 12:00 (America/Chicago)\nIST: 2026-06-14 22:30 IST
-DTEND:20260614T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260614T170000Z
-SUMMARY:🎯 Match 10: 🇩🇪 Germany 7 - 1 Curaçao 🇨🇼 (FT)
-UID:0b29a282-17a9-4092-98fc-3f327580ee0f@0b29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-11 13:00 (America/Mexico_City)\nIST: 2026-06-12 00:30 IST
-DTEND:20260611T210000Z
-LOCATION:Estadio Azteca\, Mexico City
-DTSTART:20260611T190000Z
-SUMMARY:🎯 Match 1: 🇲🇽 Mexico 2 - 0 South Africa 🇿🇦 (FT)
-UID:27281247-c7fb-403a-bf64-79dfe5d86f6f@2728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-03 20:30 (America/Chicago)\nIST: 2026-07-04 07:00 IST
-DTEND:20260704T033000Z
-LOCATION:Arrowhead Stadium\, Kansas City
-DTSTART:20260704T013000Z
-SUMMARY:🎯 Match 87: 🇨🇴 Colombia 1 - 0 Ghana 🇬🇭 (FT)
-UID:73a77bad-6ee8-483e-9170-d431ec46401b@73a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 12:00 (America/Vancouver)\nIST: 2026-06-25 00:30 IST
-DTEND:20260624T210000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260624T190000Z
-SUMMARY:🎯 Match 51: 🇨🇭 Switzerland 2 - 1 Canada 🇨🇦 (FT)
-UID:caa52002-8f19-40f1-b1bf-143aea34dec8@caa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-21 12:00 (America/New_York)\nIST: 2026-06-21 21:30 IST
-DTEND:20260621T180000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260621T160000Z
-SUMMARY:🎯 Match 38: 🇪🇸 Spain 4 - 0 Saudi Arabia 🇸🇦 (FT)
-UID:709ce3ae-b123-4851-a6dc-778c7c23b982@709c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 15:00 (America/Toronto)\nIST: 2026-06-27 00:30 IST
-DTEND:20260626T210000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260626T190000Z
-SUMMARY:🎯 Match 62: 🇸🇳 Senegal 5 - 0 Iraq 🇮🇶 (FT)
-UID:ebefc85c-84f9-4af9-96e3-e944007b5986@ebef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-02 19:00 (America/Toronto)\nIST: 2026-07-03 04:30 IST
-DTEND:20260703T010000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260702T230000Z
-SUMMARY:🎯 Match 83: 🇵🇹 Portugal 2 - 1 Croatia 🇭🇷 (FT)
-UID:73bfdefe-05b4-4903-b4d2-98b514f4fd96@73bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-17 15:00 (America/Chicago)\nIST: 2026-06-18 01:30 IST
-DTEND:20260617T220000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260617T200000Z
-SUMMARY:🎯 Match 22: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 4 - 2 Croatia 🇭🇷 (FT)
-UID:2f03d663-001c-4978-8189-bb4f3f9096f8@2f03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-02 20:00 (America/Vancouver)\nIST: 2026-07-03 08:30 IST
-DTEND:20260703T050000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260703T030000Z
-SUMMARY:🎯 Match 85: 🇨🇭 Switzerland 2 - 0 Algeria 🇩🇿 (FT)
-UID:d4925f33-9237-499b-8a2a-6bf390d1b1e3@d492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 19:00 (America/Monterrey)\nIST: 2026-06-25 06:30 IST
-DTEND:20260625T030000Z
-LOCATION:Estadio BBVA\, Monterrey
-DTSTART:20260625T010000Z
-SUMMARY:🎯 Match 54: 🇿🇦 South Africa 1 - 0 South Korea 🇰🇷 (FT)
-UID:a4f4cf2f-b95b-4648-a734-a074741dc394@a4f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-23 16:00 (America/New_York)\nIST: 2026-06-24 01:30 IST
-DTEND:20260623T220000Z
-LOCATION:Gillette Stadium\, Foxborough
-DTSTART:20260623T200000Z
-SUMMARY:🎯 Match 45: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0 - 0 Ghana 🇬🇭 (FT)
-UID:7ef73ebf-a609-44ac-955c-a3883b11a214@7ef7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-19 20:00 (America/Los_Angeles)\nIST: 2026-06-20 08:30 IST
-DTEND:20260620T050000Z
-LOCATION:Levi's Stadium\, Santa Clara
-DTSTART:20260620T030000Z
-SUMMARY:🎯 Match 31: 🇹🇷 Türkiye 0 - 1 Paraguay 🇵🇾 (FT)
-UID:f0efe892-1054-44ec-96e0-fa0f99e80c28@f0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-21 12:00 (America/Los_Angeles)\nIST: 2026-06-22 00:30 IST
-DTEND:20260621T210000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260621T190000Z
-SUMMARY:🎯 Match 39: 🇧🇪 Belgium 0 - 0 Iran 🇮🇷 (FT)
-UID:cb0b5fb9-ef8e-4ba7-8b27-56032af72301@cb0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-11 20:00 (America/Chicago)\nIST: 2026-07-12 06:30 IST
-DTEND:20260712T030000Z
-LOCATION:Arrowhead Stadium\, Kansas City
-DTSTART:20260712T010000Z
-SUMMARY:⚽ Match 100: 🏳️ W95 vs W96 🏳️
-UID:72307095-f0d3-4574-a634-3b50006e1200@7230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-18 12:00 (America/Los_Angeles)\nIST: 2026-06-19 00:30 IST
-DTEND:20260618T210000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260618T190000Z
-SUMMARY:🎯 Match 26: 🇨🇭 Switzerland 4 - 1 Bosnia and Herzegovina 🇧🇦 (FT)
-UID:cc8b3975-c061-4a63-9cfe-2c2da8d41b95@cc8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-23 12:00 (America/Chicago)\nIST: 2026-06-23 22:30 IST
-DTEND:20260623T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260623T170000Z
-SUMMARY:🎯 Match 47: 🇵🇹 Portugal 5 - 0 Uzbekistan 🇺🇿 (FT)
-UID:b207a0aa-0f8c-4488-aa48-cc67c399d7be@b207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-18 15:00 (America/Vancouver)\nIST: 2026-06-19 03:30 IST
-DTEND:20260619T000000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260618T220000Z
-SUMMARY:🎯 Match 27: 🇨🇦 Canada 6 - 0 Qatar 🇶🇦 (FT)
-UID:6452c480-1486-47bd-826e-58834cd4af37@6452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 19:00 (America/Los_Angeles)\nIST: 2026-06-26 07:30 IST
-DTEND:20260626T040000Z
-LOCATION:Levi's Stadium\, Santa Clara
-DTSTART:20260626T020000Z
-SUMMARY:🎯 Match 60: 🇵🇾 Paraguay 0 - 0 Australia 🇦🇺 (FT)
-UID:37be8c85-0bb9-49de-8fb7-d82b42f85eac@37be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-15 12:00 (America/Los_Angeles)\nIST: 2026-06-16 00:30 IST
-DTEND:20260615T210000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260615T190000Z
-SUMMARY:🎯 Match 16: 🇧🇪 Belgium 1 - 1 Egypt 🇪🇬 (FT)
-UID:ee4f168a-1770-483d-8f8b-870e90e91eb6@ee4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-06-19 22:00 (America/Monterrey)\nIST: 2026-06-20 09:30 IST
-DTEND:20260620T060000Z
-LOCATION:Estadio BBVA\, Monterrey
-DTSTART:20260620T040000Z
-SUMMARY:⚽ Match 36: 🇹🇳 Tunisia vs Japan 🇯🇵
-UID:f120ad68-f056-4f7a-bb2b-487147453942@f120.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-21 18:00 (America/Vancouver)\nIST: 2026-06-22 06:30 IST
-DTEND:20260622T030000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260622T010000Z
-SUMMARY:🎯 Match 40: 🇳🇿 New Zealand 1 - 3 Egypt 🇪🇬 (FT)
-UID:00caea7e-e344-4b93-a677-fbb1259600be@00ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 12:00 (America/Los_Angeles)\nIST: 2026-06-25 00:30 IST
-DTEND:20260624T210000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260624T190000Z
-SUMMARY:🎯 Match 52: 🇧🇦 Bosnia and Herzegovina 3 - 1 Qatar 🇶🇦 (FT)
-UID:8796b805-0ce1-4371-a571-be71c3fd9e88@8796.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-10 12:00 (America/Los_Angeles)\nIST: 2026-07-11 00:30 IST
-DTEND:20260710T210000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260710T190000Z
-SUMMARY:⚽ Match 98: 🏳️ W93 vs W94 🏳️
-UID:1f6fe961-a996-4c42-9c66-a86d92beadf6@1f6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-14 14:00 (America/Chicago)\nIST: 2026-07-15 00:30 IST
-DTEND:20260714T210000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260714T190000Z
-SUMMARY:⚽ Match 101: 🏳️ W97 vs W98 🏳️
-UID:d00b473b-566d-4041-a169-05d0b362953b@d00b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-12 15:00 (America/Toronto)\nIST: 2026-06-13 00:30 IST
-DTEND:20260612T210000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260612T190000Z
-SUMMARY:🎯 Match 3: 🇨🇦 Canada 1 - 1 Bosnia and Herzegovina 🇧🇦 (FT)
-UID:450651ec-16b5-471d-b54f-a21f8f6ad3ba@4506.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-16 18:00 (America/New_York)\nIST: 2026-06-17 03:30 IST
-DTEND:20260617T000000Z
-LOCATION:Gillette Stadium\, Foxborough
-DTSTART:20260616T220000Z
-SUMMARY:🎯 Match 18: 🇮🇶 Iraq 1 - 4 Norway 🇳🇴 (FT)
-UID:58b15521-fbdf-43b3-9f70-2c82426f349a@58b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-06 17:00 (America/Los_Angeles)\nIST: 2026-07-07 05:30 IST
-DTEND:20260707T020000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260707T000000Z
-SUMMARY:🎯 Match 94: 🇺🇸 USA 1 - 4 Belgium 🇧🇪 (FT)
-UID:dba5c908-a52b-4913-8d4c-af610f4a7b35@dba5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-17 20:00 (America/Mexico_City)\nIST: 2026-06-18 07:30 IST
-DTEND:20260618T040000Z
-LOCATION:Estadio Azteca\, Mexico City
-DTSTART:20260618T020000Z
-SUMMARY:🎯 Match 24: 🇺🇿 Uzbekistan 1 - 3 Colombia 🇨🇴 (FT)
-UID:7c971356-4940-4305-a9d5-d6476d48f507@7c97.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-20 19:00 (America/Chicago)\nIST: 2026-06-21 05:30 IST
 DTEND:20260621T020000Z
 LOCATION:Arrowhead Stadium\, Kansas City
 DTSTART:20260621T000000Z
 SUMMARY:🎯 Match 34: 🇪🇨 Ecuador 0 - 0 Curaçao 🇨🇼 (FT)
-UID:bfaba5d7-8266-45c5-8bcb-99a5797cd5a5@bfab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-06-12 21:00 (America/Vancouver)\nIST: 2026-06-13 09:30 IST
-DTEND:20260613T060000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260613T040000Z
-SUMMARY:⚽ Match 6: 🇦🇺 Australia vs Türkiye 🇹🇷
-UID:cf8f43a1-85d8-4763-b46d-eb228141d7c4@cf8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-21 18:00 (America/New_York)\nIST: 2026-06-22 03:30 IST
-DTEND:20260622T000000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260621T220000Z
-SUMMARY:🎯 Match 37: 🇺🇾 Uruguay 2 - 2 Cape Verde 🇨🇻 (FT)
-UID:3bf2d4a7-a703-4e8f-a74c-bad7dc76a098@3bf2.org
+UID:56917c11-81b0-4178-bdf9-d8caade09ee4@5691.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-07-07 12:00 (America/New_York)\nIST: 2026-07-07 21:30 IST
@@ -519,183 +15,31 @@ DTEND:20260707T180000Z
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 DTSTART:20260707T160000Z
 SUMMARY:🎯 Match 95: 🇦🇷 Argentina 3 - 2 Egypt 🇪🇬 (FT)
-UID:be91c830-44ae-450f-8cf9-aef13a37eee7@be91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-22 20:00 (America/New_York)\nIST: 2026-06-23 05:30 IST
-DTEND:20260623T020000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260623T000000Z
-SUMMARY:🎯 Match 41: 🇳🇴 Norway 3 - 2 Senegal 🇸🇳 (FT)
-UID:4b2e991a-c99a-41f4-8365-fc45d3afbe9c@4b2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 20:00 (America/Vancouver)\nIST: 2026-06-27 08:30 IST
-DTEND:20260627T050000Z
-LOCATION:BC Place\, Vancouver
-DTSTART:20260627T030000Z
-SUMMARY:🎯 Match 64: 🇳🇿 New Zealand 1 - 5 Belgium 🇧🇪 (FT)
-UID:16e62157-e59f-48d2-bbe6-a1bdbee7647b@16e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-25 16:00 (America/New_York)\nIST: 2026-06-26 01:30 IST
-DTEND:20260625T220000Z
-LOCATION:Lincoln Financial Field\, Philadelphia
-DTSTART:20260625T200000Z
-SUMMARY:🎯 Match 55: 🇨🇼 Curaçao 0 - 2 Ivory Coast 🇨🇮 (FT)
-UID:bb9f39aa-6c54-4ead-961e-f655c7b470dc@bb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-23 20:00 (America/Mexico_City)\nIST: 2026-06-24 07:30 IST
-DTEND:20260624T040000Z
-LOCATION:Estadio Akron\, Guadalajara
-DTSTART:20260624T020000Z
-SUMMARY:🎯 Match 48: 🇨🇴 Colombia 1 - 0 Congo DR 🇨🇩 (FT)
-UID:015db3ca-3812-4d5b-ba05-8ad1d07cf17d@015d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-16 15:00 (America/New_York)\nIST: 2026-06-17 00:30 IST
-DTEND:20260616T210000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260616T190000Z
-SUMMARY:🎯 Match 17: 🇫🇷 France 3 - 1 Senegal 🇸🇳 (FT)
-UID:5e34f893-dd73-46d8-aa9c-b101560020c5@5e34.org
+UID:c49f77e8-13fa-4db1-80d9-3cf6417ec6b2@c49f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-27 19:30 (America/New_York)\nIST: 2026-06-28 05:00 IST
 DTEND:20260628T013000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
+LOCATION:Hard Rock Stadium\, Miami Gardens
 DTSTART:20260627T233000Z
-SUMMARY:🎯 Match 72: 🇨🇩 Congo DR 3 - 1 Uzbekistan 🇺🇿 (FT)
-UID:f2b168ae-e143-4cbb-b36d-9f8eb20ca337@f2b1.org
+SUMMARY:🎯 Match 71: 🇨🇴 Colombia 0 - 0 Portugal 🇵🇹 (FT)
+UID:60e92897-7925-49be-bcbf-67eb4ab97b59@60e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-15 12:00 (America/New_York)\nIST: 2026-06-15 21:30 IST
-DTEND:20260615T180000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260615T160000Z
-SUMMARY:🎯 Match 14: 🇪🇸 Spain 0 - 0 Cape Verde 🇨🇻 (FT)
-UID:be0c5355-073b-485d-b5b8-7cf21325ea8d@be0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-27 21:00 (America/Chicago)\nIST: 2026-06-28 07:30 IST
-DTEND:20260628T040000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260628T020000Z
-SUMMARY:🎯 Match 70: 🇯🇴 Jordan 1 - 3 Argentina 🇦🇷 (FT)
-UID:1661ca44-1f56-490e-a23f-c182446150e2@1661.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-15 18:00 (America/Los_Angeles)\nIST: 2026-06-16 06:30 IST
-DTEND:20260616T030000Z
-LOCATION:SoFi Stadium\, Los Angeles
-DTSTART:20260616T010000Z
-SUMMARY:🎯 Match 15: 🇮🇷 Iran 2 - 2 New Zealand 🇳🇿 (FT)
-UID:3f36432a-a844-4932-bb2e-c1dd4260f875@3f36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-22 12:00 (America/Chicago)\nIST: 2026-06-22 22:30 IST
-DTEND:20260622T190000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260622T170000Z
-SUMMARY:🎯 Match 43: 🇦🇷 Argentina 2 - 0 Austria 🇦🇹 (FT)
-UID:cc4a905e-1d9a-44f7-b5e7-349ec316507a@cc4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-03 18:00 (America/New_York)\nIST: 2026-07-04 03:30 IST
-DTEND:20260704T000000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260703T220000Z
-SUMMARY:🎯 Match 86: 🇦🇷 Argentina 1 - 1 Cape Verde 🇨🇻 (FT)
-UID:65164a33-d904-4d74-8a8f-c4f406f6ad9e@6516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-06 14:00 (America/Chicago)\nIST: 2026-07-07 00:30 IST
-DTEND:20260706T210000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260706T190000Z
-SUMMARY:🎯 Match 93: 🇵🇹 Portugal 0 - 1 Spain 🇪🇸 (FT)
-UID:56c14205-76c1-481c-8743-f930cfc78467@56c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-01 13:00 (America/Los_Angeles)\nIST: 2026-07-02 01:30 IST
-DTEND:20260701T220000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260701T200000Z
-SUMMARY:🎯 Match 82: 🇧🇪 Belgium 2 - 2 Senegal 🇸🇳 (FT)
-UID:3179570e-211b-4070-8e48-597fc9a78cba@3179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-01 12:00 (America/New_York)\nIST: 2026-07-01 21:30 IST
-DTEND:20260701T180000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260701T160000Z
-SUMMARY:🎯 Match 80: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 2 - 1 Congo DR 🇨🇩 (FT)
-UID:e8ffb5e1-e1ef-4931-882f-211bccdc96af@e8ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 19:00 (America/Chicago)\nIST: 2026-06-27 05:30 IST
-DTEND:20260627T020000Z
+DESCRIPTION:Status: Completed\nLocal: 2026-06-23 12:00 (America/Chicago)\nIST: 2026-06-23 22:30 IST
+DTEND:20260623T190000Z
 LOCATION:NRG Stadium\, Houston
-DTSTART:20260627T000000Z
-SUMMARY:🎯 Match 65: 🇨🇻 Cape Verde 0 - 0 Saudi Arabia 🇸🇦 (FT)
-UID:a4600a18-687c-444b-bfcb-dd137d7f50ad@a460.org
+DTSTART:20260623T170000Z
+SUMMARY:🎯 Match 47: 🇵🇹 Portugal 5 - 0 Uzbekistan 🇺🇿 (FT)
+UID:94adc73a-e56b-4651-a677-bbf71c1421ca@94ad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 18:00 (America/Mexico_City)\nIST: 2026-06-27 05:30 IST
-DTEND:20260627T020000Z
-LOCATION:Estadio Akron\, Guadalajara
-DTSTART:20260627T000000Z
-SUMMARY:🎯 Match 66: 🇺🇾 Uruguay 0 - 1 Spain 🇪🇸 (FT)
-UID:b6112b40-b18b-46de-becb-f94355807e3f@b611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-23 19:00 (America/Toronto)\nIST: 2026-06-24 04:30 IST
-DTEND:20260624T010000Z
-LOCATION:BMO Field\, Toronto
-DTSTART:20260623T230000Z
-SUMMARY:🎯 Match 46: 🇵🇦 Panama 0 - 1 Croatia 🇭🇷 (FT)
-UID:87dcd314-36b6-4633-84c8-b804e0ca25a7@87dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-07-15 15:00 (America/New_York)\nIST: 2026-07-16 00:30 IST
-DTEND:20260715T210000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260715T190000Z
-SUMMARY:⚽ Match 102: 🏳️ W99 vs W100 🏳️
-UID:9c920bc0-efd5-4d7c-86c4-3c19ab7c9e37@9c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-27 17:00 (America/New_York)\nIST: 2026-06-28 02:30 IST
-DTEND:20260627T230000Z
-LOCATION:MetLife Stadium\, East Rutherford
-DTSTART:20260627T210000Z
-SUMMARY:🎯 Match 67: 🇵🇦 Panama 0 - 2 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (FT)
-UID:2046f611-fad3-42da-ba70-1be1efa16222@2046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Scheduled\nLocal: 2026-06-15 21:00 (America/Los_Angeles)\nIST: 2026-06-16 09:30 IST
-DTEND:20260616T060000Z
-LOCATION:Levi's Stadium\, Santa Clara
-DTSTART:20260616T040000Z
-SUMMARY:⚽ Match 20: 🇦🇹 Austria vs Jordan 🇯🇴
-UID:4073feb3-4687-4212-9d1a-88138ccc1528@4073.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-15 18:00 (America/New_York)\nIST: 2026-06-16 03:30 IST
-DTEND:20260616T000000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260615T220000Z
-SUMMARY:🎯 Match 13: 🇸🇦 Saudi Arabia 1 - 1 Uruguay 🇺🇾 (FT)
-UID:0381514b-2211-4138-b811-17a7d733f855@0381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-18 12:00 (America/New_York)\nIST: 2026-06-18 21:30 IST
-DTEND:20260618T180000Z
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-DTSTART:20260618T160000Z
-SUMMARY:🎯 Match 25: 🇨🇿 Czechia 1 - 1 South Africa 🇿🇦 (FT)
-UID:e981f40b-12cc-4bb5-b9ae-7ef84178ee16@e981.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-29 12:00 (America/Chicago)\nIST: 2026-06-29 22:30 IST
+DTEND:20260629T190000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260629T170000Z
+SUMMARY:🎯 Match 76: 🇧🇷 Brazil 2 - 1 Japan 🇯🇵 (FT)
+UID:2b042ba4-7abc-42e4-a82a-2ddab8f712c3@2b04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-14 15:00 (America/Chicago)\nIST: 2026-06-15 01:30 IST
@@ -703,15 +47,31 @@ DTEND:20260614T220000Z
 LOCATION:AT&T Stadium\, Arlington
 DTSTART:20260614T200000Z
 SUMMARY:🎯 Match 11: 🇳🇱 Netherlands 2 - 2 Japan 🇯🇵 (FT)
-UID:e79f0eff-4c81-4033-9064-ecc753da0282@e79f.org
+UID:5a795d17-573b-4556-ada2-18e6feec7570@5a79.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-19 21:00 (America/New_York)\nIST: 2026-06-20 06:30 IST
-DTEND:20260620T030000Z
-LOCATION:Lincoln Financial Field\, Philadelphia
-DTSTART:20260620T010000Z
-SUMMARY:🎯 Match 29: 🇧🇷 Brazil 3 - 0 Haiti 🇭🇹 (FT)
-UID:0815055d-39af-4967-a40a-00ab498f2fe5@0815.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-27 17:00 (America/New_York)\nIST: 2026-06-28 02:30 IST
+DTEND:20260627T230000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260627T210000Z
+SUMMARY:🎯 Match 67: 🇵🇦 Panama 0 - 2 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (FT)
+UID:0f4f5f89-1fce-4567-b58f-dee0ae91beb4@0f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-21 12:00 (America/New_York)\nIST: 2026-06-21 21:30 IST
+DTEND:20260621T180000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260621T160000Z
+SUMMARY:🎯 Match 38: 🇪🇸 Spain 4 - 0 Saudi Arabia 🇸🇦 (FT)
+UID:8a966fc4-2c28-4a4a-a2b3-508c76c98307@8a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-16 18:00 (America/New_York)\nIST: 2026-06-17 03:30 IST
+DTEND:20260617T000000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260616T220000Z
+SUMMARY:🎯 Match 18: 🇮🇶 Iraq 1 - 4 Norway 🇳🇴 (FT)
+UID:c7bd86dc-61d2-49e9-a08f-bbc13f25a2ca@c7bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-07-04 17:00 (America/New_York)\nIST: 2026-07-05 02:30 IST
@@ -719,23 +79,31 @@ DTEND:20260704T230000Z
 LOCATION:Lincoln Financial Field\, Philadelphia
 DTSTART:20260704T210000Z
 SUMMARY:🎯 Match 89: 🇵🇾 Paraguay 0 - 1 France 🇫🇷 (FT)
-UID:086e5210-cece-4f2c-b1f3-08748fa16d41@086e.org
+UID:0b732f10-26f1-48f5-b8c8-61560814ca77@0b73.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-03 13:00 (America/Chicago)\nIST: 2026-07-03 23:30 IST
-DTEND:20260703T200000Z
-LOCATION:AT&T Stadium\, Arlington
-DTSTART:20260703T180000Z
-SUMMARY:🎯 Match 88: 🇦🇺 Australia 1 - 1 Egypt 🇪🇬 (FT)
-UID:85be2afa-2ad4-4133-a99b-3c112224c112@85be.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 20:00 (America/Vancouver)\nIST: 2026-06-27 08:30 IST
+DTEND:20260627T050000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260627T030000Z
+SUMMARY:🎯 Match 64: 🇳🇿 New Zealand 1 - 5 Belgium 🇧🇪 (FT)
+UID:3d1f61c9-8566-4b69-a159-de9687c82f8e@3d1f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-13 12:00 (America/Los_Angeles)\nIST: 2026-06-14 00:30 IST
-DTEND:20260613T210000Z
-LOCATION:Levi's Stadium\, Santa Clara
-DTSTART:20260613T190000Z
-SUMMARY:🎯 Match 8: 🇶🇦 Qatar 1 - 1 Switzerland 🇨🇭 (FT)
-UID:6e54e693-7b3c-4b30-9797-01e9ba7fa0ee@6e54.org
+DESCRIPTION:Status: Completed\nLocal: 2026-07-04 12:00 (America/Chicago)\nIST: 2026-07-04 22:30 IST
+DTEND:20260704T190000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260704T170000Z
+SUMMARY:🎯 Match 90: 🇨🇦 Canada 0 - 3 Morocco 🇲🇦 (FT)
+UID:bdecf66b-df90-481d-9189-0518c1b351fd@bdec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-19 12:00 (America/Los_Angeles)\nIST: 2026-06-20 00:30 IST
+DTEND:20260619T210000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260619T190000Z
+SUMMARY:🎯 Match 32: 🇺🇸 USA 2 - 0 Australia 🇦🇺 (FT)
+UID:abbd60e2-ff6c-4f5f-a848-2b5a9d0269e6@abbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-07-07 13:00 (America/Vancouver)\nIST: 2026-07-08 01:30 IST
@@ -743,23 +111,7 @@ DTEND:20260707T220000Z
 LOCATION:BC Place\, Vancouver
 DTSTART:20260707T200000Z
 SUMMARY:🎯 Match 96: 🇨🇭 Switzerland 0 - 0 Colombia 🇨🇴 (FT)
-UID:709dfe64-be5e-41c9-bbd9-f82bd06f9894@709d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-17 12:00 (America/Chicago)\nIST: 2026-06-17 22:30 IST
-DTEND:20260617T190000Z
-LOCATION:NRG Stadium\, Houston
-DTSTART:20260617T170000Z
-SUMMARY:🎯 Match 23: 🇵🇹 Portugal 1 - 1 Congo DR 🇨🇩 (FT)
-UID:d34eb529-1f15-4674-b34b-27dbee9f45cc@d34e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-24 18:00 (America/New_York)\nIST: 2026-06-25 03:30 IST
-DTEND:20260625T000000Z
-LOCATION:Hard Rock Stadium\, Miami Gardens
-DTSTART:20260624T220000Z
-SUMMARY:🎯 Match 49: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 0 - 3 Brazil 🇧🇷 (FT)
-UID:6d4af3ab-8c5c-42a2-90be-0424ad243afd@6d4a.org
+UID:e72c3d0d-87a1-4869-b379-a1f1e1808440@e72c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-22 20:00 (America/Los_Angeles)\nIST: 2026-06-23 08:30 IST
@@ -767,31 +119,231 @@ DTEND:20260623T050000Z
 LOCATION:Levi's Stadium\, Santa Clara
 DTSTART:20260623T030000Z
 SUMMARY:🎯 Match 44: 🇯🇴 Jordan 1 - 2 Algeria 🇩🇿 (FT)
-UID:6d552d20-6159-46a6-9ab1-b13714827169@6d55.org
+UID:fd384212-34c9-458b-af01-313c2c6c606b@fd38.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-07-05 18:00 (America/Mexico_City)\nIST: 2026-07-06 05:30 IST
-DTEND:20260706T020000Z
-LOCATION:Estadio Azteca\, Mexico City
-DTSTART:20260706T000000Z
-SUMMARY:🎯 Match 92: 🇲🇽 Mexico 2 - 3 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (FT)
-UID:48d6f805-4b1f-4f7b-8c8a-6598a4e51067@48d6.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-27 21:00 (America/Chicago)\nIST: 2026-06-28 07:30 IST
+DTEND:20260628T040000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260628T020000Z
+SUMMARY:🎯 Match 70: 🇯🇴 Jordan 1 - 3 Argentina 🇦🇷 (FT)
+UID:53682c97-1006-454c-baa7-67d3c9e0aa8f@5368.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 20:00 (America/Los_Angeles)\nIST: 2026-06-27 08:30 IST
-DTEND:20260627T050000Z
-LOCATION:Lumen Field\, Seattle
-DTSTART:20260627T030000Z
-SUMMARY:🎯 Match 63: 🇪🇬 Egypt 1 - 1 Iran 🇮🇷 (FT)
-UID:a29becdf-1c04-42ab-a987-63432db9c479@a29b.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-18 12:00 (America/Los_Angeles)\nIST: 2026-06-19 00:30 IST
+DTEND:20260618T210000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260618T190000Z
+SUMMARY:🎯 Match 26: 🇨🇭 Switzerland 4 - 1 Bosnia and Herzegovina 🇧🇦 (FT)
+UID:119b34f7-5e98-4d44-a1fd-17b1508179bb@119b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-26 15:00 (America/New_York)\nIST: 2026-06-27 00:30 IST
+DESCRIPTION:Status: Completed\nLocal: 2026-06-21 18:00 (America/New_York)\nIST: 2026-06-22 03:30 IST
+DTEND:20260622T000000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260621T220000Z
+SUMMARY:🎯 Match 37: 🇺🇾 Uruguay 2 - 2 Cape Verde 🇨🇻 (FT)
+UID:8cf33f71-820e-4830-b5bb-c127ed6b639d@8cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-22 20:00 (America/New_York)\nIST: 2026-06-23 05:30 IST
+DTEND:20260623T020000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260623T000000Z
+SUMMARY:🎯 Match 41: 🇳🇴 Norway 3 - 2 Senegal 🇸🇳 (FT)
+UID:552dee2a-0adc-4a52-bf9c-f9f79d3335e2@552d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 15:00 (America/Toronto)\nIST: 2026-06-27 00:30 IST
 DTEND:20260626T210000Z
-LOCATION:Gillette Stadium\, Foxborough
+LOCATION:BMO Field\, Toronto
 DTSTART:20260626T190000Z
-SUMMARY:🎯 Match 61: 🇳🇴 Norway 1 - 4 France 🇫🇷 (FT)
-UID:5c1a7c14-a2b2-4e65-8fb8-b115f36d417b@5c1a.org
+SUMMARY:🎯 Match 62: 🇸🇳 Senegal 5 - 0 Iraq 🇮🇶 (FT)
+UID:a23ccbaf-1039-4130-a24f-3e37ad5aa753@a23c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 16:00 (America/New_York)\nIST: 2026-06-26 01:30 IST
+DTEND:20260625T220000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260625T200000Z
+SUMMARY:🎯 Match 56: 🇪🇨 Ecuador 2 - 1 Germany 🇩🇪 (FT)
+UID:e98ac10d-b288-415f-9b1e-ea15f37f8253@e98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-27 19:30 (America/New_York)\nIST: 2026-06-28 05:00 IST
+DTEND:20260628T013000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260627T233000Z
+SUMMARY:🎯 Match 72: 🇨🇩 Congo DR 3 - 1 Uzbekistan 🇺🇿 (FT)
+UID:30bce050-50de-4520-9f9c-212af3e2584a@30bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-17 12:00 (America/Chicago)\nIST: 2026-06-17 22:30 IST
+DTEND:20260617T190000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260617T170000Z
+SUMMARY:🎯 Match 23: 🇵🇹 Portugal 1 - 1 Congo DR 🇨🇩 (FT)
+UID:1b37b07c-fafa-48c5-a6ef-848ac4319096@1b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-15 12:00 (America/New_York)\nIST: 2026-06-15 21:30 IST
+DTEND:20260615T180000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260615T160000Z
+SUMMARY:🎯 Match 14: 🇪🇸 Spain 0 - 0 Cape Verde 🇨🇻 (FT)
+UID:f4f70f4f-32b0-47ee-9204-0c4e316d8609@f4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-30 19:00 (America/Mexico_City)\nIST: 2026-07-01 06:30 IST
+DTEND:20260701T030000Z
+LOCATION:Estadio Azteca\, Mexico City
+DTSTART:20260701T010000Z
+SUMMARY:🎯 Match 79: 🇲🇽 Mexico 2 - 0 Ecuador 🇪🇨 (FT)
+UID:40828724-26ef-4718-b8e8-f893899eb6c3@4082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 19:00 (America/Monterrey)\nIST: 2026-06-25 06:30 IST
+DTEND:20260625T030000Z
+LOCATION:Estadio BBVA\, Monterrey
+DTSTART:20260625T010000Z
+SUMMARY:🎯 Match 54: 🇿🇦 South Africa 1 - 0 South Korea 🇰🇷 (FT)
+UID:d079f8e0-283f-4e49-94ee-d3716d95f876@d079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 19:00 (America/Mexico_City)\nIST: 2026-06-25 06:30 IST
+DTEND:20260625T030000Z
+LOCATION:Estadio Azteca\, Mexico City
+DTSTART:20260625T010000Z
+SUMMARY:🎯 Match 53: 🇨🇿 Czechia 0 - 3 Mexico 🇲🇽 (FT)
+UID:8cfdbd76-f273-44d9-b8a9-bc9840b00c61@8cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-13 12:00 (America/Los_Angeles)\nIST: 2026-06-14 00:30 IST
+DTEND:20260613T210000Z
+LOCATION:Levi's Stadium\, Santa Clara
+DTSTART:20260613T190000Z
+SUMMARY:🎯 Match 8: 🇶🇦 Qatar 1 - 1 Switzerland 🇨🇭 (FT)
+UID:e0817fa6-91a1-4c76-a5e5-e05527caca6a@e081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 18:00 (America/Chicago)\nIST: 2026-06-26 04:30 IST
+DTEND:20260626T010000Z
+LOCATION:Arrowhead Stadium\, Kansas City
+DTSTART:20260625T230000Z
+SUMMARY:🎯 Match 58: 🇹🇳 Tunisia 1 - 3 Netherlands 🇳🇱 (FT)
+UID:015a2d90-845a-4104-984f-d2f830599dd9@015a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-15 15:00 (America/New_York)\nIST: 2026-07-16 00:30 IST
+DTEND:20260715T210000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260715T190000Z
+SUMMARY:⚽ Match 102: 🏳️ W99 vs W100 🏳️
+UID:726cc86f-6e22-4ed5-9948-c6fabf49e957@726c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-20 16:00 (America/Toronto)\nIST: 2026-06-21 01:30 IST
+DTEND:20260620T220000Z
+LOCATION:BMO Field\, Toronto
+DTSTART:20260620T200000Z
+SUMMARY:🎯 Match 33: 🇩🇪 Germany 2 - 1 Ivory Coast 🇨🇮 (FT)
+UID:69cb46eb-ddb8-4f7e-8421-403968236724@69cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-19 18:00 (America/New_York)\nIST: 2026-06-20 03:30 IST
+DTEND:20260620T000000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260619T220000Z
+SUMMARY:🎯 Match 30: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 0 - 1 Morocco 🇲🇦 (FT)
+UID:a9bcaa94-299a-43ae-9e29-1932b8aac5fd@a9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 19:00 (America/Los_Angeles)\nIST: 2026-06-26 07:30 IST
+DTEND:20260626T040000Z
+LOCATION:Levi's Stadium\, Santa Clara
+DTSTART:20260626T020000Z
+SUMMARY:🎯 Match 60: 🇵🇾 Paraguay 0 - 0 Australia 🇦🇺 (FT)
+UID:b8eb78f7-1e20-49a3-b82e-685a6f93e975@b8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-18 12:00 (America/New_York)\nIST: 2026-06-18 21:30 IST
+DTEND:20260618T180000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260618T160000Z
+SUMMARY:🎯 Match 25: 🇨🇿 Czechia 1 - 1 South Africa 🇿🇦 (FT)
+UID:2dd49134-aa17-41e3-9e79-3cb481ce4293@2dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-11 13:00 (America/Mexico_City)\nIST: 2026-06-12 00:30 IST
+DTEND:20260611T210000Z
+LOCATION:Estadio Azteca\, Mexico City
+DTSTART:20260611T190000Z
+SUMMARY:🎯 Match 1: 🇲🇽 Mexico 2 - 0 South Africa 🇿🇦 (FT)
+UID:244609ae-cbfe-4724-86bc-78d083bdf43c@2446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 16:00 (America/New_York)\nIST: 2026-06-26 01:30 IST
+DTEND:20260625T220000Z
+LOCATION:Lincoln Financial Field\, Philadelphia
+DTSTART:20260625T200000Z
+SUMMARY:🎯 Match 55: 🇨🇼 Curaçao 0 - 2 Ivory Coast 🇨🇮 (FT)
+UID:45ade2d7-5727-41d1-96fa-818f861d3ba2@45ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-16 15:00 (America/New_York)\nIST: 2026-06-17 00:30 IST
+DTEND:20260616T210000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260616T190000Z
+SUMMARY:🎯 Match 17: 🇫🇷 France 3 - 1 Senegal 🇸🇳 (FT)
+UID:608668d3-9851-44e5-b608-c0e77db45583@6086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 18:00 (America/New_York)\nIST: 2026-06-25 03:30 IST
+DTEND:20260625T000000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260624T220000Z
+SUMMARY:🎯 Match 49: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 0 - 3 Brazil 🇧🇷 (FT)
+UID:23040857-7cc7-4897-9d88-341b183e59c8@2304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 19:00 (America/Chicago)\nIST: 2026-06-27 05:30 IST
+DTEND:20260627T020000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260627T000000Z
+SUMMARY:🎯 Match 65: 🇨🇻 Cape Verde 0 - 0 Saudi Arabia 🇸🇦 (FT)
+UID:edf802b5-aac6-43ff-8fdb-5fb591de1ba0@edf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-06 14:00 (America/Chicago)\nIST: 2026-07-07 00:30 IST
+DTEND:20260706T210000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260706T190000Z
+SUMMARY:🎯 Match 93: 🇵🇹 Portugal 0 - 1 Spain 🇪🇸 (FT)
+UID:2077881c-6f0a-442e-aa8f-b10aa204f0a6@2077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-18 15:00 (America/Vancouver)\nIST: 2026-06-19 03:30 IST
+DTEND:20260619T000000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260618T220000Z
+SUMMARY:🎯 Match 27: 🇨🇦 Canada 6 - 0 Qatar 🇶🇦 (FT)
+UID:92379064-b56e-436e-afbc-4b90f98740cf@9237.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-02 12:00 (America/Los_Angeles)\nIST: 2026-07-03 00:30 IST
+DTEND:20260702T210000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260702T190000Z
+SUMMARY:🎯 Match 84: 🇪🇸 Spain 3 - 0 Austria 🇦🇹 (FT)
+UID:a963cb4a-29eb-4baa-bf0e-71732dbcb640@a963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 18:00 (America/Mexico_City)\nIST: 2026-06-27 05:30 IST
+DTEND:20260627T020000Z
+LOCATION:Estadio Akron\, Guadalajara
+DTSTART:20260627T000000Z
+SUMMARY:🎯 Match 66: 🇺🇾 Uruguay 0 - 1 Spain 🇪🇸 (FT)
+UID:9d3616b4-6108-460b-90a6-69b4b954eeac@9d36.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-16 20:00 (America/Chicago)\nIST: 2026-06-17 06:30 IST
@@ -799,15 +351,215 @@ DTEND:20260617T030000Z
 LOCATION:Arrowhead Stadium\, Kansas City
 DTSTART:20260617T010000Z
 SUMMARY:🎯 Match 19: 🇦🇷 Argentina 3 - 0 Algeria 🇩🇿 (FT)
-UID:29e89ec4-b4d3-4f85-842b-6ce7ae396e9f@29e8.org
+UID:7625afa1-a6bb-4c2b-b2b5-483f3677224f@7625.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Status: Completed\nLocal: 2026-06-18 19:00 (America/Mexico_City)\nIST: 2026-06-19 06:30 IST
-DTEND:20260619T030000Z
-LOCATION:Estadio Akron\, Guadalajara
-DTSTART:20260619T010000Z
-SUMMARY:🎯 Match 28: 🇲🇽 Mexico 1 - 0 South Korea 🇰🇷 (FT)
-UID:f9a51f00-d06f-40aa-ba6c-8b50ab4898dd@f9a5.org
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 12:00 (America/Vancouver)\nIST: 2026-06-25 00:30 IST
+DTEND:20260624T210000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260624T190000Z
+SUMMARY:🎯 Match 51: 🇨🇭 Switzerland 2 - 1 Canada 🇨🇦 (FT)
+UID:207c1906-eaf6-43f4-86f5-f73c7a2ca5c9@207c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-28 12:00 (America/Los_Angeles)\nIST: 2026-06-29 00:30 IST
+DTEND:20260628T210000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260628T190000Z
+SUMMARY:🎯 Match 73: 🇿🇦 South Africa 0 - 1 Canada 🇨🇦 (FT)
+UID:07d52b21-8348-4adb-98d0-8dd5426e7b87@07d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-22 17:00 (America/New_York)\nIST: 2026-06-23 02:30 IST
+DTEND:20260622T230000Z
+LOCATION:Lincoln Financial Field\, Philadelphia
+DTSTART:20260622T210000Z
+SUMMARY:🎯 Match 42: 🇫🇷 France 3 - 0 Iraq 🇮🇶 (FT)
+UID:2a2f0bc7-7138-4813-8f8d-3b73495611d9@2a2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-14 14:00 (America/Chicago)\nIST: 2026-07-15 00:30 IST
+DTEND:20260714T210000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260714T190000Z
+SUMMARY:⚽ Match 101: 🏳️ W97 vs W98 🏳️
+UID:835061a6-b14e-4d04-a105-d58209d1bb7b@8350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-01 12:00 (America/New_York)\nIST: 2026-07-01 21:30 IST
+DTEND:20260701T180000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260701T160000Z
+SUMMARY:🎯 Match 80: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 2 - 1 Congo DR 🇨🇩 (FT)
+UID:1030791b-9321-484a-9d10-7c329689a510@1030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-19 20:00 (America/Los_Angeles)\nIST: 2026-06-20 08:30 IST
+DTEND:20260620T050000Z
+LOCATION:Levi's Stadium\, Santa Clara
+DTSTART:20260620T030000Z
+SUMMARY:🎯 Match 31: 🇹🇷 Türkiye 0 - 1 Paraguay 🇵🇾 (FT)
+UID:f9b94b06-6399-4ff7-816c-db1c86ca06d1@f9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-12 15:00 (America/Toronto)\nIST: 2026-06-13 00:30 IST
+DTEND:20260612T210000Z
+LOCATION:BMO Field\, Toronto
+DTSTART:20260612T190000Z
+SUMMARY:🎯 Match 3: 🇨🇦 Canada 1 - 1 Bosnia and Herzegovina 🇧🇦 (FT)
+UID:5ee52f07-2414-4846-ae29-fd04f74cbae9@5ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-11 20:00 (America/Chicago)\nIST: 2026-07-12 06:30 IST
+DTEND:20260712T030000Z
+LOCATION:Arrowhead Stadium\, Kansas City
+DTSTART:20260712T010000Z
+SUMMARY:⚽ Match 100: 🏳️ W95 vs W96 🏳️
+UID:5bfd3aac-4cc0-4fa7-ab3f-c035cbe3b16a@5bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-22 12:00 (America/Chicago)\nIST: 2026-06-22 22:30 IST
+DTEND:20260622T190000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260622T170000Z
+SUMMARY:🎯 Match 43: 🇦🇷 Argentina 2 - 0 Austria 🇦🇹 (FT)
+UID:215b7eec-43c3-4df2-b2cc-d311257f4c0f@215b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-06-19 22:00 (America/Monterrey)\nIST: 2026-06-20 09:30 IST
+DTEND:20260620T060000Z
+LOCATION:Estadio BBVA\, Monterrey
+DTSTART:20260620T040000Z
+SUMMARY:⚽ Match 36: 🇹🇳 Tunisia vs Japan 🇯🇵
+UID:ee1bf105-e6b3-4743-ac92-74338d8b03a4@ee1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-30 12:00 (America/Chicago)\nIST: 2026-06-30 22:30 IST
+DTEND:20260630T190000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260630T170000Z
+SUMMARY:🎯 Match 78: 🇨🇮 Ivory Coast 1 - 2 Norway 🇳🇴 (FT)
+UID:498b7dbe-bb8f-46fe-abea-4032a48d938f@498b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-18 17:00 (America/New_York)\nIST: 2026-07-19 02:30 IST
+DTEND:20260718T230000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260718T210000Z
+SUMMARY:⚽ Match 103: 🏳️ L101 vs L102 🏳️
+UID:9c73b2cb-655f-41be-9122-f08e492b0f25@9c73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-17 15:00 (America/Chicago)\nIST: 2026-06-18 01:30 IST
+DTEND:20260617T220000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260617T200000Z
+SUMMARY:🎯 Match 22: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 4 - 2 Croatia 🇭🇷 (FT)
+UID:0d764c9a-9167-4638-89c2-7cf9e4cfb6be@0d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-29 19:00 (America/Monterrey)\nIST: 2026-06-30 06:30 IST
+DTEND:20260630T030000Z
+LOCATION:Estadio BBVA\, Monterrey
+DTSTART:20260630T010000Z
+SUMMARY:🎯 Match 75: 🇳🇱 Netherlands 1 - 1 Morocco 🇲🇦 (FT)
+UID:53f483c1-c6b0-48b2-aa83-a522df67b843@53f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-01 13:00 (America/Los_Angeles)\nIST: 2026-07-02 01:30 IST
+DTEND:20260701T220000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260701T200000Z
+SUMMARY:🎯 Match 82: 🇧🇪 Belgium 2 - 2 Senegal 🇸🇳 (FT)
+UID:297b358b-c7b6-44e3-b1f5-7b5b22f518b2@297b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-11 17:00 (America/New_York)\nIST: 2026-07-12 02:30 IST
+DTEND:20260711T230000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260711T210000Z
+SUMMARY:⚽ Match 99: 🏳️ W91 vs W92 🏳️
+UID:e338d5f3-ffe0-450a-abf0-85efe5ec02bb@e338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-06-12 21:00 (America/Vancouver)\nIST: 2026-06-13 09:30 IST
+DTEND:20260613T060000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260613T040000Z
+SUMMARY:⚽ Match 6: 🇦🇺 Australia vs Türkiye 🇹🇷
+UID:db97b97e-230f-447c-b189-079d04e17e6f@db97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 12:00 (America/Los_Angeles)\nIST: 2026-06-25 00:30 IST
+DTEND:20260624T210000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260624T190000Z
+SUMMARY:🎯 Match 52: 🇧🇦 Bosnia and Herzegovina 3 - 1 Qatar 🇶🇦 (FT)
+UID:bfdba534-23d8-4b3c-9ed3-2317aedd722b@bfdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-20 12:00 (America/Chicago)\nIST: 2026-06-20 22:30 IST
+DTEND:20260620T190000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260620T170000Z
+SUMMARY:🎯 Match 35: 🇳🇱 Netherlands 5 - 1 Sweden 🇸🇪 (FT)
+UID:49d043dc-7dfe-48a1-bbc2-055a0156a1ef@49d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-13 18:00 (America/New_York)\nIST: 2026-06-14 03:30 IST
+DTEND:20260614T000000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260613T220000Z
+SUMMARY:🎯 Match 7: 🇧🇷 Brazil 1 - 1 Morocco 🇲🇦 (FT)
+UID:eb18de99-4356-4318-a8ce-0e6ca127e513@eb18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-14 12:00 (America/Chicago)\nIST: 2026-06-14 22:30 IST
+DTEND:20260614T190000Z
+LOCATION:NRG Stadium\, Houston
+DTSTART:20260614T170000Z
+SUMMARY:🎯 Match 10: 🇩🇪 Germany 7 - 1 Curaçao 🇨🇼 (FT)
+UID:ca1a53f2-9234-4f31-b3de-0fe5656fed5d@ca1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-23 16:00 (America/New_York)\nIST: 2026-06-24 01:30 IST
+DTEND:20260623T220000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260623T200000Z
+SUMMARY:🎯 Match 45: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 0 - 0 Ghana 🇬🇭 (FT)
+UID:690c32b6-b688-4b21-b926-2b7f9d7d8c92@690c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-03 13:00 (America/Chicago)\nIST: 2026-07-03 23:30 IST
+DTEND:20260703T200000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260703T180000Z
+SUMMARY:🎯 Match 88: 🇦🇺 Australia 1 - 1 Egypt 🇪🇬 (FT)
+UID:4685bef2-6e14-4ad1-98ba-2a0c3573cdc0@4685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-24 18:00 (America/New_York)\nIST: 2026-06-25 03:30 IST
+DTEND:20260625T000000Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+DTSTART:20260624T220000Z
+SUMMARY:🎯 Match 50: 🇲🇦 Morocco 4 - 2 Haiti 🇭🇹 (FT)
+UID:570b35b8-4d7f-4a5b-92e9-1c3bf64e9b10@570b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-12 18:00 (America/Los_Angeles)\nIST: 2026-06-13 06:30 IST
+DTEND:20260613T030000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260613T010000Z
+SUMMARY:🎯 Match 4: 🇺🇸 USA 4 - 1 Paraguay 🇵🇾 (FT)
+UID:b0877fc1-1a0b-4d21-b1f0-2c4c73a90d78@b087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-21 12:00 (America/Los_Angeles)\nIST: 2026-06-22 00:30 IST
+DTEND:20260621T210000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260621T190000Z
+SUMMARY:🎯 Match 39: 🇧🇪 Belgium 0 - 0 Iran 🇮🇷 (FT)
+UID:05b72c31-d77a-4fa5-9cb7-4d5b2546357e@05b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-29 16:30 (America/New_York)\nIST: 2026-06-30 02:00 IST
@@ -815,7 +567,103 @@ DTEND:20260629T223000Z
 LOCATION:Gillette Stadium\, Foxborough
 DTSTART:20260629T203000Z
 SUMMARY:🎯 Match 74: 🇩🇪 Germany 1 - 1 Paraguay 🇵🇾 (FT)
-UID:7579d7a7-1cde-47e2-b6f6-a974b7523ddb@7579.org
+UID:6512bab7-1a16-4675-8925-1b4169d5afd9@6512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-23 20:00 (America/Mexico_City)\nIST: 2026-06-24 07:30 IST
+DTEND:20260624T040000Z
+LOCATION:Estadio Akron\, Guadalajara
+DTSTART:20260624T020000Z
+SUMMARY:🎯 Match 48: 🇨🇴 Colombia 1 - 0 Congo DR 🇨🇩 (FT)
+UID:74175b88-9bf7-4453-b995-eafe8193de99@7417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-03 18:00 (America/New_York)\nIST: 2026-07-04 03:30 IST
+DTEND:20260704T000000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260703T220000Z
+SUMMARY:🎯 Match 86: 🇦🇷 Argentina 1 - 1 Cape Verde 🇨🇻 (FT)
+UID:a3b910e1-51d1-415f-898d-824f0a2a8660@a3b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-01 17:00 (America/Los_Angeles)\nIST: 2026-07-02 05:30 IST
+DTEND:20260702T020000Z
+LOCATION:Levi's Stadium\, Santa Clara
+DTSTART:20260702T000000Z
+SUMMARY:🎯 Match 81: 🇺🇸 USA 2 - 0 Bosnia and Herzegovina 🇧🇦 (FT)
+UID:d8d803cf-0737-43ed-becc-2f590ee6b654@d8d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-14 20:00 (America/Monterrey)\nIST: 2026-06-15 07:30 IST
+DTEND:20260615T040000Z
+LOCATION:Estadio BBVA\, Monterrey
+DTSTART:20260615T020000Z
+SUMMARY:🎯 Match 12: 🇸🇪 Sweden 5 - 1 Tunisia 🇹🇳 (FT)
+UID:41a035b5-eed6-4f3f-b882-518a3920bc98@41a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-11 20:00 (America/Mexico_City)\nIST: 2026-06-12 07:30 IST
+DTEND:20260612T040000Z
+LOCATION:Estadio Akron\, Guadalajara
+DTSTART:20260612T020000Z
+SUMMARY:🎯 Match 2: 🇰🇷 South Korea 2 - 1 Czechia 🇨🇿 (FT)
+UID:b57723c1-a3c7-432b-b1c7-4f9b671969aa@b577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-21 18:00 (America/Vancouver)\nIST: 2026-06-22 06:30 IST
+DTEND:20260622T030000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260622T010000Z
+SUMMARY:🎯 Match 40: 🇳🇿 New Zealand 1 - 3 Egypt 🇪🇬 (FT)
+UID:7ccc6c5d-64c8-4cc9-af26-29e23026d0a8@7ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-03 20:30 (America/Chicago)\nIST: 2026-07-04 07:00 IST
+DTEND:20260704T033000Z
+LOCATION:Arrowhead Stadium\, Kansas City
+DTSTART:20260704T013000Z
+SUMMARY:🎯 Match 87: 🇨🇴 Colombia 1 - 0 Ghana 🇬🇭 (FT)
+UID:77ff615d-639f-4d63-ab57-a6caa88d2ba2@77ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-06 17:00 (America/Los_Angeles)\nIST: 2026-07-07 05:30 IST
+DTEND:20260707T020000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260707T000000Z
+SUMMARY:🎯 Match 94: 🇺🇸 USA 1 - 4 Belgium 🇧🇪 (FT)
+UID:7077321c-dcf8-4adb-9392-93f9ddcffd15@7077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 19:00 (America/Los_Angeles)\nIST: 2026-06-26 07:30 IST
+DTEND:20260626T040000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260626T020000Z
+SUMMARY:🎯 Match 59: 🇹🇷 Türkiye 3 - 2 USA 🇺🇸 (FT)
+UID:b2348f02-8a9e-4cd5-b5d1-a1bce5b4d221@b234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-06-15 21:00 (America/Los_Angeles)\nIST: 2026-06-16 09:30 IST
+DTEND:20260616T060000Z
+LOCATION:Levi's Stadium\, Santa Clara
+DTSTART:20260616T040000Z
+SUMMARY:⚽ Match 20: 🇦🇹 Austria vs Jordan 🇯🇴
+UID:e834216b-2353-4e69-bd0e-69ebfeccada6@e834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-25 18:00 (America/Chicago)\nIST: 2026-06-26 04:30 IST
+DTEND:20260626T010000Z
+LOCATION:AT&T Stadium\, Arlington
+DTSTART:20260625T230000Z
+SUMMARY:🎯 Match 57: 🇯🇵 Japan 1 - 1 Sweden 🇸🇪 (FT)
+UID:a46e9625-6470-4b6a-9371-40c4ac3d2f8c@a46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 20:00 (America/Los_Angeles)\nIST: 2026-06-27 08:30 IST
+DTEND:20260627T050000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260627T030000Z
+SUMMARY:🎯 Match 63: 🇪🇬 Egypt 1 - 1 Iran 🇮🇷 (FT)
+UID:abcb9e41-b172-443c-8251-ed7af391fa99@abcb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-06-30 17:00 (America/New_York)\nIST: 2026-07-01 02:30 IST
@@ -823,7 +671,111 @@ DTEND:20260630T230000Z
 LOCATION:MetLife Stadium\, East Rutherford
 DTSTART:20260630T210000Z
 SUMMARY:🎯 Match 77: 🇫🇷 France 3 - 0 Sweden 🇸🇪 (FT)
-UID:49feb026-8ccb-47ec-b934-a4ac14d402b8@49fe.org
+UID:d99f83f3-30f4-4f5b-85ea-c21b8f3d89dd@d99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-02 19:00 (America/Toronto)\nIST: 2026-07-03 04:30 IST
+DTEND:20260703T010000Z
+LOCATION:BMO Field\, Toronto
+DTSTART:20260702T230000Z
+SUMMARY:🎯 Match 83: 🇵🇹 Portugal 2 - 1 Croatia 🇭🇷 (FT)
+UID:518f4f2a-459a-4e86-9e30-8d0ddd6af786@518f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-26 15:00 (America/New_York)\nIST: 2026-06-27 00:30 IST
+DTEND:20260626T210000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260626T190000Z
+SUMMARY:🎯 Match 61: 🇳🇴 Norway 1 - 4 France 🇫🇷 (FT)
+UID:673ab80d-855c-494d-ae2a-08c40d599ea2@673a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-15 18:00 (America/Los_Angeles)\nIST: 2026-06-16 06:30 IST
+DTEND:20260616T030000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260616T010000Z
+SUMMARY:🎯 Match 15: 🇮🇷 Iran 2 - 2 New Zealand 🇳🇿 (FT)
+UID:b26acf91-dd9b-4899-b24a-ec69513dc10a@b26a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-19 21:00 (America/New_York)\nIST: 2026-06-20 06:30 IST
+DTEND:20260620T030000Z
+LOCATION:Lincoln Financial Field\, Philadelphia
+DTSTART:20260620T010000Z
+SUMMARY:🎯 Match 29: 🇧🇷 Brazil 3 - 0 Haiti 🇭🇹 (FT)
+UID:ec6d65c4-12f3-4ea0-a759-9577ceda0e1e@ec6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-13 21:00 (America/New_York)\nIST: 2026-06-14 06:30 IST
+DTEND:20260614T030000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260614T010000Z
+SUMMARY:🎯 Match 5: 🇭🇹 Haiti 0 - 1 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (FT)
+UID:039247a7-8137-4b6c-b50b-48ded4d71425@0392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-14 19:00 (America/New_York)\nIST: 2026-06-15 04:30 IST
+DTEND:20260615T010000Z
+LOCATION:Lincoln Financial Field\, Philadelphia
+DTSTART:20260614T230000Z
+SUMMARY:🎯 Match 9: 🇨🇮 Ivory Coast 1 - 0 Ecuador 🇪🇨 (FT)
+UID:795d690d-9b6a-4bce-b78f-2e2629dfcc73@795d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-02 20:00 (America/Vancouver)\nIST: 2026-07-03 08:30 IST
+DTEND:20260703T050000Z
+LOCATION:BC Place\, Vancouver
+DTSTART:20260703T030000Z
+SUMMARY:🎯 Match 85: 🇨🇭 Switzerland 2 - 0 Algeria 🇩🇿 (FT)
+UID:9ebfa4f2-6ec9-4d91-971e-1680c6d19797@9ebf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-19 15:00 (America/New_York)\nIST: 2026-07-20 00:30 IST
+DTEND:20260719T210000Z
+LOCATION:MetLife Stadium\, East Rutherford
+DTSTART:20260719T190000Z
+SUMMARY:⚽ Match 104: 🏳️ W101 vs W102 🏳️
+UID:b82e54c0-f5c5-45fa-b40e-0ecd250fb03f@b82e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-09 16:00 (America/New_York)\nIST: 2026-07-10 01:30 IST
+DTEND:20260709T220000Z
+LOCATION:Gillette Stadium\, Foxborough
+DTSTART:20260709T200000Z
+SUMMARY:🎯 Match 97: 🇫🇷 France 2 - 0 Morocco 🇲🇦 (FT)
+UID:d87952d3-ee1a-4bc2-abea-79f3d0c71f20@d879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-17 19:00 (America/Toronto)\nIST: 2026-06-18 04:30 IST
+DTEND:20260618T010000Z
+LOCATION:BMO Field\, Toronto
+DTSTART:20260617T230000Z
+SUMMARY:🎯 Match 21: 🇬🇭 Ghana 1 - 0 Panama 🇵🇦 (FT)
+UID:36fd7cf3-2469-4f97-a367-79e49684239e@36fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-23 19:00 (America/Toronto)\nIST: 2026-06-24 04:30 IST
+DTEND:20260624T010000Z
+LOCATION:BMO Field\, Toronto
+DTSTART:20260623T230000Z
+SUMMARY:🎯 Match 46: 🇵🇦 Panama 0 - 1 Croatia 🇭🇷 (FT)
+UID:fb1aebfa-8275-4f4e-86ca-ea87778c21ce@fb1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-15 12:00 (America/Los_Angeles)\nIST: 2026-06-16 00:30 IST
+DTEND:20260615T210000Z
+LOCATION:Lumen Field\, Seattle
+DTSTART:20260615T190000Z
+SUMMARY:🎯 Match 16: 🇧🇪 Belgium 1 - 1 Egypt 🇪🇬 (FT)
+UID:30e39b1e-a2c1-404e-a1d0-09bde95dc8c4@30e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-17 20:00 (America/Mexico_City)\nIST: 2026-06-18 07:30 IST
+DTEND:20260618T040000Z
+LOCATION:Estadio Azteca\, Mexico City
+DTSTART:20260618T020000Z
+SUMMARY:🎯 Match 24: 🇺🇿 Uzbekistan 1 - 3 Colombia 🇨🇴 (FT)
+UID:1d5a6ce6-a735-46f8-9d47-b938113ef19d@1d5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Status: Completed\nLocal: 2026-07-05 16:00 (America/New_York)\nIST: 2026-07-06 01:30 IST
@@ -831,6 +783,54 @@ DTEND:20260705T220000Z
 LOCATION:MetLife Stadium\, East Rutherford
 DTSTART:20260705T200000Z
 SUMMARY:🎯 Match 91: 🇧🇷 Brazil 1 - 2 Norway 🇳🇴 (FT)
-UID:6e2e6b9c-0b35-4f88-ac38-49cc44bafd67@6e2e.org
+UID:a0fb8f85-ebd2-4c16-a780-b99beec4afb5@a0fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-15 18:00 (America/New_York)\nIST: 2026-06-16 03:30 IST
+DTEND:20260616T000000Z
+LOCATION:Hard Rock Stadium\, Miami Gardens
+DTSTART:20260615T220000Z
+SUMMARY:🎯 Match 13: 🇸🇦 Saudi Arabia 1 - 1 Uruguay 🇺🇾 (FT)
+UID:23da50b4-4aa0-4062-b5a0-10a720be343b@23da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-07-05 18:00 (America/Mexico_City)\nIST: 2026-07-06 05:30 IST
+DTEND:20260706T020000Z
+LOCATION:Estadio Azteca\, Mexico City
+DTSTART:20260706T000000Z
+SUMMARY:🎯 Match 92: 🇲🇽 Mexico 2 - 3 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (FT)
+UID:6be8143e-daa8-45b2-bba7-f2af2e8b7f90@6be8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-27 17:00 (America/New_York)\nIST: 2026-06-28 02:30 IST
+DTEND:20260627T230000Z
+LOCATION:Lincoln Financial Field\, Philadelphia
+DTSTART:20260627T210000Z
+SUMMARY:🎯 Match 68: 🇭🇷 Croatia 2 - 1 Ghana 🇬🇭 (FT)
+UID:a8511498-428b-4554-b330-9ba560121a6a@a851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-18 19:00 (America/Mexico_City)\nIST: 2026-06-19 06:30 IST
+DTEND:20260619T030000Z
+LOCATION:Estadio Akron\, Guadalajara
+DTSTART:20260619T010000Z
+SUMMARY:🎯 Match 28: 🇲🇽 Mexico 1 - 0 South Korea 🇰🇷 (FT)
+UID:dce1fd9a-a957-439b-b5dc-626144642550@dce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Scheduled\nLocal: 2026-07-10 12:00 (America/Los_Angeles)\nIST: 2026-07-11 00:30 IST
+DTEND:20260710T210000Z
+LOCATION:SoFi Stadium\, Los Angeles
+DTSTART:20260710T190000Z
+SUMMARY:⚽ Match 98: 🏳️ W93 vs W94 🏳️
+UID:e95bfeb6-978f-4793-b954-64c70f0ad728@e95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Status: Completed\nLocal: 2026-06-27 21:00 (America/Chicago)\nIST: 2026-06-28 07:30 IST
+DTEND:20260628T040000Z
+LOCATION:Arrowhead Stadium\, Kansas City
+DTSTART:20260628T020000Z
+SUMMARY:🎯 Match 69: 🇩🇿 Algeria 3 - 3 Austria 🇦🇹 (FT)
+UID:747dc033-067a-4f96-98de-698fb8ce1864@747d.org
 END:VEVENT
 END:VCALENDAR
