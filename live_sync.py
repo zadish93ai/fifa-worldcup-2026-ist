@@ -82,7 +82,6 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
         print(f"openfootball feed unavailable: {exc}", file=sys.stderr)
         return {}
 
-    lookup = build_schedule_lookup(schedule)
     completed: dict[int, tuple[int, int]] = {}
 
     for match in payload.get("matches", []):
@@ -92,10 +91,12 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
             match_number = int(match_number)
             row = next((item for item in schedule["matches"] if item["match_number"] == match_number), None)
             
-                        # AUTOMATED KNOCKOUT RETROFIT & TRACKING
-                            if api_team1 and api_team2:
+            if row is not None:
+                api_team1 = match.get("team1")
+                api_team2 = match.get("team2")
+
+                if api_team1 and api_team2:
                     placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
-                    import re
                     
                     home_str = str(row["home"])
                     away_str = str(row["away"])
@@ -114,16 +115,16 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
                             row["away"] = api_team2
                             print(f"Auto-resolved Match {match_number} Away -> {api_team2}")
 
-        # Only extract the final score if the match is actually finished
-        score = match.get("score", {}).get("ft")
-        if score and len(score) == 2:
-            completed[match_number] = map_scores_to_home_away(
-                home_team,
-                away_team,
-                match["team1"],
-                int(score[0]),
-                int(score[1]),
-            )
+                # Only extract the final score if the match is actually finished
+                score = match.get("score", {}).get("ft")
+                if score and len(score) == 2:
+                    completed[match_number] = map_scores_to_home_away(
+                        row["home"],
+                        row["away"],
+                        match["team1"],
+                        int(score[0]),
+                        int(score[1]),
+                    )
 
     return completed
 
@@ -166,10 +167,9 @@ def scores_from_football_data(schedule: dict, api_key: str) -> dict[int, tuple[i
 
         match_number = row["match_number"]
         
-                # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
+        # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
         if 73 <= match_number <= 104:
             placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
-            import re
             
             home_str = str(row["home"])
             away_str = str(row["away"])
