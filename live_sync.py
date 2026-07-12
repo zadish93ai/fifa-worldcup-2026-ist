@@ -93,34 +93,26 @@ def scores_from_openfootball(schedule: dict) -> dict[int, tuple[int, int]]:
             row = next((item for item in schedule["matches"] if item["match_number"] == match_number), None)
             
                         # AUTOMATED KNOCKOUT RETROFIT & TRACKING
-            if row and 73 <= match_number <= 104:
-                api_team1 = normalize_team(match.get("team1", ""))
-                api_team2 = normalize_team(match.get("team2", ""))
-                
-                if api_team1 and api_team2:
-                                        # Broad catch-all for any bracket placeholder variations
+                            if api_team1 and api_team2:
                     placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
+                    import re
                     
-                    # Overwrite placeholders if found in the schedule row
-                    if any(p in row["home"] for p in placeholders):
+                    home_str = str(row["home"])
+                    away_str = str(row["away"])
+                    
+                    # If the API smashed both teams and scores into the home or away field (e.g., "W95 1 - 1 W96")
+                    if " - " in home_str and (re.search(r'[WL]\d+', home_str) or any(p in home_str for p in placeholders)):
                         row["home"] = api_team1
-                        print(f"Auto-resolved Match {match_number} Home -> {api_team1}")
-                    if any(p in row["away"] for p in placeholders):
                         row["away"] = api_team2
-                        print(f"Auto-resolved Match {match_number} Away -> {api_team2}")
-            
-            if row:
-                home_team, away_team = row["home"], row["away"]
-            else:
-                continue
-        else:
-            # Fallback to team pairing lookup for standard group stage games
-            key = team_pair_key(match["date"], match["team1"], match["team2"])
-            row = lookup.get(key)
-            if row is None:
-                continue
-            match_number = row["match_number"]
-            home_team, away_team = row["home"], row["away"]
+                        print(f"Auto-resolved smashed Match {match_number} -> {api_team1} vs {api_team2}")
+                    else:
+                        # Standard individual field fallback check
+                        if any(p in home_str for p in placeholders) or re.search(r'[WL]\d+', home_str):
+                            row["home"] = api_team1
+                            print(f"Auto-resolved Match {match_number} Home -> {api_team1}")
+                        if any(p in away_str for p in placeholders) or re.search(r'[WL]\d+', away_str):
+                            row["away"] = api_team2
+                            print(f"Auto-resolved Match {match_number} Away -> {api_team2}")
 
         # Only extract the final score if the match is actually finished
         score = match.get("score", {}).get("ft")
@@ -174,16 +166,26 @@ def scores_from_football_data(schedule: dict, api_key: str) -> dict[int, tuple[i
 
         match_number = row["match_number"]
         
-                        # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
+                # AUTOMATED KNOCKOUT OVERWRITE FOR FOOTBALL-DATA
         if 73 <= match_number <= 104:
             placeholders = ["Winners", "Runners-up", "Runner-up", "Winner match", "Best 3rd", "Winner", "Loser"]
+            import re
             
-            if home_name and any(p in row["home"] for p in placeholders):
-                row["home"] = home_name
-                print(f"football-data auto-resolved Match {match_number} Home -> {home_name}")
-            if away_name and any(p in row["away"] for p in placeholders):
-                row["away"] = away_name
-                print(f"football-data auto-resolved Match {match_number} Away -> {away_name}")
+            home_str = str(row["home"])
+            away_str = str(row["away"])
+            
+            if " - " in home_str and (re.search(r'[WL]\d+', home_str) or any(p in home_str for p in placeholders)):
+                if home_name and away_name:
+                    row["home"] = home_name
+                    row["away"] = away_name
+                    print(f"football-data auto-resolved smashed Match {match_number} -> {home_name} vs {away_name}")
+            else:
+                if home_name and (any(p in home_str for p in placeholders) or re.search(r'[WL]\d+', home_str)):
+                    row["home"] = home_name
+                    print(f"football-data auto-resolved Match {match_number} Home -> {home_name}")
+                if away_name and (any(p in away_str for p in placeholders) or re.search(r'[WL]\d+', away_str)):
+                    row["away"] = away_name
+                    print(f"football-data auto-resolved Match {match_number} Away -> {away_name}")
 
         # Extract scores only if the status indicates completion
         if match.get("status") == "FINISHED":
