@@ -231,6 +231,10 @@
     "101": [
       0,
       2
+    ],
+    "102": [
+      1,
+      2
     ]
   },
   "matches": [
@@ -1056,7 +1060,7 @@
       "time": "17:00",
       "stadium": "Hard Rock Stadium",
       "home": "France",
-      "away": "L102"
+      "away": "England"
     },
     {
       "match_number": 104,
@@ -1064,7 +1068,7 @@
       "time": "15:00",
       "stadium": "MetLife Stadium",
       "home": "Spain",
-      "away": "W102"
+      "away": "Argentina"
     }
   ]
 }
